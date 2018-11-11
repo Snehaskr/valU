@@ -10,6 +10,8 @@ Using data-sets saved in the form of JSON files, we performed syntactical and se
 
 This information was all consequently passed along in csv format and was used to create a SQLite database.
 
+Challenges: Since we were in need of data that was not readily available in order to create this service, we started runnning low on time once it came around to connecting our back end to the front end. We worked with JavaScript to help access elements in our SQL database, however ran into issues with getting this to work. We want to stress that the back end is fully operational. We have tables storing all the data we aggregated, but we were lacking the necessary JavaScript skills to fully incorperate access to these tables from the front end. If given more time we would work to ensure that this 'bridge' between each end was fully operational.
+
 Top Sources:
   1. https://cloud.google.com/natural-language/docs/analyzing-sentiment
   2. Google Cloud Shell
