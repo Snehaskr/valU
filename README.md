@@ -4,6 +4,7 @@ ValU provides a curated resource for individuals to learn about companies that m
 
 Our project is broken down into several parts: data scraping, followed by sentiment and syntax analysis, data organization, data visualization, and front-end development. 
 
+< Amrita's and Mark's section here >
 
 
 
