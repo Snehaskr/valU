@@ -4,7 +4,7 @@ ValU provides a curated resource for individuals to learn about companies that m
 
 Our project is broken down into several parts: data scraping, followed by sentiment and syntax analysis, data organization, data visualization, and front-end development. 
 
-< Amrita's and Mark's section here >
-
-
+Backend development:
+We started off by finding data sources from a diversity database and Indeed.com. We scraped the data from Indeed and reconciled the companies in the database with the scraped data. We created tables with 1000 reviews for each of the companies we were analyzing. After scraping the review data, we passed it to our teammates to perform syntax analysis.
+Our teammates passed back CSV files and other data containing syntactical analysis of the reviews we had given. This data determined how the reviewers on Indeed had felt about working at these companies, as well as keywords associated with each company. We cleaned the data and created a SQLite database of this information.
 
