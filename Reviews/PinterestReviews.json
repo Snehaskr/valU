@@ -1,0 +1,259 @@
+{
+  "documentSentiment": {
+    "magnitude": 16.5,
+    "score": 0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "It was a fun internship.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "The people are really friendly, the office is really nice, and the benefits are pretty on par with other companies on their level.",
+        "beginOffset": 25
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The Ogden Office is a great place to learn, for entry-level employees, but as far as earning potential in the SLC area, is quite poor.",
+        "beginOffset": 156
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "The reward is in knowledge not in compensation.",
+        "beginOffset": 291
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The hardest part of the job was looking for businesses to speak with.",
+        "beginOffset": 339
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "It was very challenging and probably the most challenging jobs but it was the most rewarding.",
+        "beginOffset": 409
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Like the team.",
+        "beginOffset": 503
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Dislike the management who doesn't know anything.",
+        "beginOffset": 518
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Brand new equipment t to use which is a plus.Most teammates act way too spoiled meaning they act like they are better than this place.",
+        "beginOffset": 568
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Leaving a mess at their station and bathroom allowing someone else to pick up after them.",
+        "beginOffset": 703
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "good culture and people, bad management as its a growing company and having hard time scaling the management correctly.",
+        "beginOffset": 793
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "very smart people are hired and the work is interesting Best job I've had so far.",
+        "beginOffset": 913
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Loved my team, management, etc.",
+        "beginOffset": 995
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Company culture had some of the typical silicon valley pitfalls, but many benefits to compensate.",
+        "beginOffset": 1027
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Given task to complete to help fellow workers to achieve their goals at hand.",
+        "beginOffset": 1125
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I learned different skills in different positions.",
+        "beginOffset": 1204
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Workplace environment was very relaxed but collaborative at all times.",
+        "beginOffset": 1256
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Relaxed, Fun and space for creativity are three things I had while my time on Pinterest.",
+        "beginOffset": 1327
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Weekly summary and meetings were not just to find out where exactly you and your team did but to improvise and grow your potential.",
+        "beginOffset": 1416
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Love the company, the product, the people, but poor management.Management never gave me updates on how to improve, never praised to increased morale, and definitely discriminated.",
+        "beginOffset": 1548
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I am disappointed I experienced this while working at this great company.",
+        "beginOffset": 1728
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I really liked the startup culture and the kind of work ethics they followed!The best part was the work life balance that they offered there.It was an enriching and evolving experience to work for them both professionally and personally!",
+        "beginOffset": 1802
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I love to work at a place that everyone is happy.. good vybz work place that people respect each other..",
+        "beginOffset": 2040
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "i need to grow ..",
+        "beginOffset": 2145
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "i love to work at a place i can see my future be happy",
+        "beginOffset": 2163
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ]
+}

@@ -1,0 +1,5579 @@
+{
+  "documentSentiment": {
+    "magnitude": 325.7,
+    "score": 0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I love the youtube community it not just let you make money by videos you have to have talent also with the patience to work with others and keep at it and you wont be disapointed Just so you know, this is a Job you take completely upon yourself to do.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "No bosses, no deadlines, its all up to you.",
+        "beginOffset": 253
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Your paycheck is up to you, and the quality of your work is up to you.",
+        "beginOffset": 297
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Its fun and on your own pace to work for.",
+        "beginOffset": 368
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I liked how I can upload my own gaming videos for laughs.",
+        "beginOffset": 410
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Its real easy to use for your own pleasure.",
+        "beginOffset": 468
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I suggest it.",
+        "beginOffset": 512
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I can make my own schedule.",
+        "beginOffset": 526
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I also like ro collab with other youtube stars to get my channel more noticed.",
+        "beginOffset": 554
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "My subscribers grown increasingly everyday.",
+        "beginOffset": 633
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube wasn't really a Job i was looking for , more like to help people with problems.",
+        "beginOffset": 677
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The money just came with it.",
+        "beginOffset": 765
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "It was fun while it lasted but with everything..",
+        "beginOffset": 794
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "it had to come to an end.",
+        "beginOffset": 843
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I do recommend it to anyone who feels like they have the social skill to speak in front of thousands of people.",
+        "beginOffset": 869
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "But if you feel like it.''",
+        "beginOffset": 981
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "be a lot of pressure, the weight of the stress can catch up to you easily.",
+        "beginOffset": 1008
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "It is the best but I love it because it makes me exciting to make video for fun in the world and so I want to go to get a new job because I rather get more money So awesome that some Creators like myself are able to create youtube videos and get a little cash every month or so!",
+        "beginOffset": 1083
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Don't have to leave the house and you get to be yourself with your own schedule!",
+        "beginOffset": 1362
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a very interesting job to have.",
+        "beginOffset": 1443
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It comes with it's benefits but it also comes with its negatives that most people don't realize.",
+        "beginOffset": 1486
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Its unpredictability being number one.",
+        "beginOffset": 1583
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube was more of a hobby than a job really.",
+        "beginOffset": 1622
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "It's fun because I could use my own ideas whenever I felt like.",
+        "beginOffset": 1669
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "As a content creator YouTube was about your imagination and what you wanted to put out there.",
+        "beginOffset": 1733
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "People have to figure out what works for you there are sometimes hostile environments and places and sometimes people who are not easy or willing to work with others.",
+        "beginOffset": 1827
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "While I did not specifically work at the headquarters, I actively create content for my channel.",
+        "beginOffset": 1994
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Content creators must always stay on top of current trends and have the most up to date hardware and software in order to compete.",
+        "beginOffset": 2091
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a job that allows you to be yourself and do whatever you desire to do.",
+        "beginOffset": 2222
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The hard thing about YouTube is actually making money, it may take time and patience, Good place for someone who is looking to be a self managing person and wanting to work on their own and succeed by themself and manage their payments to.",
+        "beginOffset": 2304
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube give me the oportunity to work at home doing what I love to do.",
+        "beginOffset": 2544
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The webset have their problems but in my opinion is a great place do share your ideas.",
+        "beginOffset": 2616
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I learned that there are benefit's in improving other people's lives' by making a video.",
+        "beginOffset": 2703
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I am thankful for having to share and create content of my own for other people to enjoy.",
+        "beginOffset": 2792
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Diverse.",
+        "beginOffset": 2882
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Room for everyone to grow.",
+        "beginOffset": 2891
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Great place to be a part of .",
+        "beginOffset": 2918
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am having a good experience.",
+        "beginOffset": 2948
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Everyone will not have the same experiences.",
+        "beginOffset": 2979
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I truly enjoy ever part of it.",
+        "beginOffset": 3024
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Earning your way to a steady income and reliable one at that through YouTube is remarkably difficult.",
+        "beginOffset": 3055
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "But it is a very appealing and satisfying to career to succeed in.",
+        "beginOffset": 3157
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Great people and great products.",
+        "beginOffset": 3224
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "You really feel like you work at the best company in the world.",
+        "beginOffset": 3257
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They treat you well and empower you to be the best you can be through training, coaching and development.",
+        "beginOffset": 3321
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I love 'working' here it is more so a hobby than anything else due to the fact I am 15 and do aspire to become a professional actress but I enjoy YouTube so much I would not mind doing this as an actual job.",
+        "beginOffset": 3427
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "work from home and do what you love.",
+        "beginOffset": 3635
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "You have to fund all your expenses like computer , camera and editing software.",
+        "beginOffset": 3672
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If you stick to it the outcome can be amazing.",
+        "beginOffset": 3752
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a fun place to work at cause you can work at home and make your own hours and you can make videos of what you love like gaming  making skits and and more I love the youtube community it not just let you make money by videos you have to have talent also with the patience to work with others and keep at it and you wont be disapointed The types of things that make it seem productive is that it keeps me thinking creatively and that my skills on editing and directing won't be rusty as long as I keep doing what needs to be done.",
+        "beginOffset": 3799
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "kinda just made a couple popular videos and collected my 2 dollars per day quietly while i did other stuff.",
+        "beginOffset": 4339
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "if you have a few smash hits (possibly by collabing with bigger creators) you can kinda just idly collect money.",
+        "beginOffset": 4447
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I just love that my channel can be about anything I want it to be.",
+        "beginOffset": 4560
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "My main issue is getting my few viewers to criticize me so I can get better.",
+        "beginOffset": 4627
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube changes their monetization rules a lot too.",
+        "beginOffset": 4704
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "as an animator on youtube it is near impossible to try and make it to a point where you can start earning passive income...",
+        "beginOffset": 4756
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "not worth it is just to hard t0o make it in this line of work.",
+        "beginOffset": 4880
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "There are different parts of this community.",
+        "beginOffset": 4943
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "People can be really compassionate and kind but other times, they are not pleasant.",
+        "beginOffset": 4988
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Management does need to do a better job at listening to their content creators.",
+        "beginOffset": 5072
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "not good for the fast money but if you love what you are doing the money will eventually come.",
+        "beginOffset": 5152
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "the key to being successful in this field is consistency.",
+        "beginOffset": 5247
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "this was not my full time income (I have not grown on youtube that fast).",
+        "beginOffset": 5305
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "This is something that the future will bring more and more of.",
+        "beginOffset": 5379
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "For you to be able to work for yourself, youtube really enables you to be able to achieve that.",
+        "beginOffset": 5442
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube has the opportunity to be a full time job but also is a great way to be creative and learn while you do it.",
+        "beginOffset": 5538
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Almost any topic can be found on Youtube and I am proud to be a part of it, even if small.",
+        "beginOffset": 5654
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "you have your own schedule and if you are passionate and creative its the best job in the world to get to have a voice show it to the world !",
+        "beginOffset": 5745
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "the most amazing thing is when people believe in you !",
+        "beginOffset": 5887
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I love everything about the job and wouldn't change much about it.",
+        "beginOffset": 5942
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "The hardest part are the critical comments I receive online.",
+        "beginOffset": 6009
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I love the industry as a whole.",
+        "beginOffset": 6070
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "If you are not signed to any companies you are your own boss however it is harder to make money if you do not sign with a media company.",
+        "beginOffset": 6102
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Because the pay from ads alone is not much.",
+        "beginOffset": 6239
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I can make anything I want as long as it falls under their terms and I can work whenever I want.",
+        "beginOffset": 6283
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "The hardest part of working at Youtube is trying to keep up with the trends.",
+        "beginOffset": 6380
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Not sure why I have to do this.",
+        "beginOffset": 6457
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Worked at home recorded things I wanted to put on my youtube channel.",
+        "beginOffset": 6489
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Made sure video's were of good quality and uploaded them on to the site.",
+        "beginOffset": 6559
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Great family/work life balance.",
+        "beginOffset": 6632
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "A lot of events and projects that keep you motivated.",
+        "beginOffset": 6664
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The biggest perk, is YouTube takes care of it's employees very well.",
+        "beginOffset": 6718
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Since I'm not getting paid yet and not doing it full time, it's hard to say, however I do know that the amount of work to film and edit videos require a large quantity of time, and the ratio of people who see it is far less.",
+        "beginOffset": 6787
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Even though this is the case, I love being creative and using this platform as way to express myself.",
+        "beginOffset": 7012
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I hope to eventually create content and become full-time with a sustainable salary.",
+        "beginOffset": 7114
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "typical self employment.",
+        "beginOffset": 7198
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Cant rely solely on adsense revenue.",
+        "beginOffset": 7223
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Must diversify revenue streams to make it a 'real' job.",
+        "beginOffset": 7260
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "hardest part is making meaningful content.",
+        "beginOffset": 7316
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Analytics can be quite confusing, especially seeing that there a millions of other people using the website.",
+        "beginOffset": 7359
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Best part is the ability to work from anywhere and managing your own time.",
+        "beginOffset": 7468
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Lot's of fun being able to create.",
+        "beginOffset": 7543
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "demora pagar mas e uma boa empresa e bem legal trabalhar nesta empresa por que e sempre bom trabalhar em uma coisa que voce gosta mesmo nao sendo bem pago Youtube allow you to create your own scheduled and time.",
+        "beginOffset": 7578
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "your pay is base on watch time, Subs and Likes.",
+        "beginOffset": 7790
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "You can create your own videos just follow the guidelines.",
+        "beginOffset": 7839
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "A typical day is very lively and supportive.The staff is excellentThe hours are flexibleThe workplace culture is respectful.The job was temporaryThey paid very well.",
+        "beginOffset": 7898
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I love the youtube community it not just let you make money by videos you have to have talent also with the patience to work with others and keep at it and you wont be disapointed YouTube lost a lot of advertising revenue opportunities during my tenure but always remained a home for creators.",
+        "beginOffset": 8064
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Hardest part was discipline.",
+        "beginOffset": 8358
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "aajfjfj Producing content on YouTube is a hard thing to do especially due to advertising and expanding your channel.",
+        "beginOffset": 8387
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "However, it is very fun to create what you want and to get your ideas out.",
+        "beginOffset": 8504
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Working at SNL/Broadway Video has been nothing short of a dream.",
+        "beginOffset": 8579
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I have been taught so much this past year, as well as being included in a multitude of creative processes.",
+        "beginOffset": 8644
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "A very fun activity and I can work at home.",
+        "beginOffset": 8751
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I learned how to run my own channel.",
+        "beginOffset": 8795
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Management is great.",
+        "beginOffset": 8832
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Everyone has so much fun.",
+        "beginOffset": 8853
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I like how I get paid to do what I love .",
+        "beginOffset": 8879
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube is kind of strict.",
+        "beginOffset": 8921
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I need more subscribers if I am going to get paid.",
+        "beginOffset": 8948
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "You can work anywhere, but you need thick skin.",
+        "beginOffset": 8999
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "You have to find sponsorships so you can get paid.",
+        "beginOffset": 9047
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The algorithm changed, so you have to work twice as hard.",
+        "beginOffset": 9098
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Fung Bro's YouTube Channel has over 1 million followers, they created high quality entertainment content for the audiences all over the world.I am not pretty sure about how many freelance editor they have, but I guess at least 20.",
+        "beginOffset": 9156
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Working with them was a very good experience, they have two friendly and talent producers who really helped me to getting start.",
+        "beginOffset": 9387
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I really appreciated!Due to freelance job and too many freelance editors, my assignment was not plenty to feed my self.",
+        "beginOffset": 9516
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "They gave me plenty time to edit, but I could not get more after I finished mine.",
+        "beginOffset": 9636
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is all up to you mostly.",
+        "beginOffset": 9718
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "You decide how much you make and how long you work with how much time you're willing to put in not being paid until you catch a lucky break.",
+        "beginOffset": 9751
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube needs no introduction as a company but the work behind the scenes is another matter entirely.",
+        "beginOffset": 9892
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I enjoy creating videos based on personal interests and getting positive reception.",
+        "beginOffset": 9994
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "However, the payment system as well as some of the company's more questionable practices can be alarming.",
+        "beginOffset": 10078
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "It will be a platform that I will always continue to use, but it is a platform where your actions need to be cautious.",
+        "beginOffset": 10184
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "You get to be your own boss!",
+        "beginOffset": 10303
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "High earning potential with hard work!",
+        "beginOffset": 10332
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Helpful management team and tech support!",
+        "beginOffset": 10371
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Fun working environment!",
+        "beginOffset": 10413
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "This allows anyone to be as creative as they want and create contents that reflects an individual.",
+        "beginOffset": 10438
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Great for those who want to get into Social Media Marketing or Social Media Entertainment.",
+        "beginOffset": 10537
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Helping a content creator is fun and interesting but employment of this type isn't as stable as I thought it to be.",
+        "beginOffset": 10628
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube has recently gone through many changes that doesn't make this a viable option anymore.",
+        "beginOffset": 10744
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "What to say about the job as long as you dont mind being in front of a camera or editing videos and making sure good lighting and stuff and have fun you will do well in it YouTube is a very diverse environment with many opportunities.",
+        "beginOffset": 10839
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "A YouTuber picks when they want to work and how long they want to work.",
+        "beginOffset": 11074
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "It is is way fun to be on YouTube and be able to share your talent or skills .",
+        "beginOffset": 11146
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I really enjoy uploading content on this platforms.",
+        "beginOffset": 11225
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "You all should try it out YouTube is A Great Platform, however there are no benefits and the salary is completely dependent on viewers.",
+        "beginOffset": 11277
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "However, YouTube/Google pay .01 cents per View.",
+        "beginOffset": 11413
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Horrible wages and at most times disappointing.",
+        "beginOffset": 11461
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I love that I can work on a video from my own home and upload whenever I would like.",
+        "beginOffset": 11509
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube has changed the lives of many people and it has opened so many doors.",
+        "beginOffset": 11594
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "We learn from others, we try gathering advice from others.",
+        "beginOffset": 11672
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Spent about 6 hours per day editing videos.",
+        "beginOffset": 11731
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Uploaded them onto Youtube.com.",
+        "beginOffset": 11776
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "All content was original and made to entertain the viewer.",
+        "beginOffset": 11809
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube is what you make it.",
+        "beginOffset": 11868
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "If you want to work full time, you can.",
+        "beginOffset": 11897
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If you are like me and would rather work 3 10 hour days per week, you can as well.",
+        "beginOffset": 11937
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "The hardest part of youtube is that there is a lot of behind the scenes work that goes into being a content creator.",
+        "beginOffset": 12020
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "You have to come up with an idea, purchase supplies and equipment for your videos, film and edit them.",
+        "beginOffset": 12137
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Do voice overs if narration is necessary, and create an eye catching thumbnail.",
+        "beginOffset": 12240
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Then you have to upload to youtube, create a description, tag you videos so people can find them, and promote your video.",
+        "beginOffset": 12320
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Then you want to create a sense of community for your viewers by responding to comments and engaging with other content creators.",
+        "beginOffset": 12442
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "It's a lot of work, so be sure you love what your videos are about.",
+        "beginOffset": 12572
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "A typical day of work is collecting a large amount of film, that you may or may not be able to use, generally more you capture the more likely you are to find good content.",
+        "beginOffset": 12640
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Great place to work at.Grew as a person.",
+        "beginOffset": 12813
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I know what my skills and strengths are.",
+        "beginOffset": 12854
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "There are an ample amount of amenities.",
+        "beginOffset": 12895
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "People are there to help you succeed in at work and in life.",
+        "beginOffset": 12935
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I love the youtube community it not just let you make money by videos you have to have talent also with the patience to work with others and keep at it and you wont be disapointed A typical day at work is just making videos and uploading them to Youtube.",
+        "beginOffset": 12996
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I learned how to edit videos, and keep a good schedule.",
+        "beginOffset": 13251
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am my own manager Hardest part of the job is motivation to edit the videos.All of it!",
+        "beginOffset": 13307
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It's a great job.",
+        "beginOffset": 13395
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "A typical work day would insist of planning the next video.",
+        "beginOffset": 13413
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "There will be a drawing board and brain storming.",
+        "beginOffset": 13473
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Then plan location of recording.",
+        "beginOffset": 13523
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Set up lighting and camera gear.",
+        "beginOffset": 13556
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Then perform in video.",
+        "beginOffset": 13589
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Upload all videos to laptop and begin the editing program.",
+        "beginOffset": 13612
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Then produce and upload onto YouTube.",
+        "beginOffset": 13671
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Once on YouTube I would share my video through several social media's and then answer comments.",
+        "beginOffset": 13709
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube is a lot of work, but it is very rewarding to be able to inspire others.",
+        "beginOffset": 13805
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "You have to be dedicated to grow your channel.",
+        "beginOffset": 13886
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I do this as an hobby for something to do.",
+        "beginOffset": 13933
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Very fun to upload my content and show the world.",
+        "beginOffset": 13976
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I can upload when ever and make a little bit of money when ever.",
+        "beginOffset": 14026
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "MY typical day at work is just wake up and make a video if i feel like it.",
+        "beginOffset": 14091
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I've learned how to be independent and take charge of my own content.",
+        "beginOffset": 14166
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Management is great.",
+        "beginOffset": 14236
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The hardest part of the job is bringing myself to take the time and energy of editing a video and then seeing the terrible video i just made.",
+        "beginOffset": 14257
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The most enjoyable part of the job is that i can literally do what i want.",
+        "beginOffset": 14399
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I loved sharing my personal passion with other people as engaged in the topic as I am.",
+        "beginOffset": 14474
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It is really hard to keep the acount updated due to busy school schedule but overall it was one of the best things I have done so far.",
+        "beginOffset": 14561
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Working on youtube is a great way to get in touch with others , entertain and create with freedom .",
+        "beginOffset": 14696
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "as well once successful you may turn your youtube career into income with hard work.",
+        "beginOffset": 14796
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "good benefits, fun people, interesting work but i'm only a contractor, location is in an area with lots of things to do; close to wood field mall.",
+        "beginOffset": 14881
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "good place for those who can put great ideas into reality - process can always be improved on.",
+        "beginOffset": 15028
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "exciting company to be apart of - lots of changes occurring.",
+        "beginOffset": 15123
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Overall, working on Youtube has been a great experience, allowing me to establish my own plans and my own agenda while still appealing to the fanbase that I have built up overtime.",
+        "beginOffset": 15184
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "My audience expects me to stay active and consistent with my uploads and I do my best to keep with that demand.",
+        "beginOffset": 15365
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Plus, since I'm in charge of my own channel, I get to have fun and do things that I want to do.",
+        "beginOffset": 15477
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "It gives me a freedom that I highly doubt I'll be able to get anywhere else.",
+        "beginOffset": 15573
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "A typical day at work consists of thinking of new stuff to put in videos and making time to edit and actually shoot the videos.",
+        "beginOffset": 15650
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "You are able to make up your own time and simply have fun with your channel.",
+        "beginOffset": 15778
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I like to work at white castle.",
+        "beginOffset": 15855
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "You can learn new everyday.",
+        "beginOffset": 15887
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "New Experience every day, meet with new people and grate conversation.My most enjoyable part was helping costumers and solve their problems because i like it.",
+        "beginOffset": 15915
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I poured every ounce of my being into making it big on youtube, but it never went anywhere.",
+        "beginOffset": 16074
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I tried everything, and never stopped, until I realized it was just a war of attrition.",
+        "beginOffset": 16166
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "So I finally threw in the towel, and that doesn't come easily for me.",
+        "beginOffset": 16254
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I do not want to review the company.",
+        "beginOffset": 16324
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Amenities are nice, spacious, include a gym, a swimming pool.",
+        "beginOffset": 16361
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "2 buildings, 2 cafeterias, unlimited food and snacks.",
+        "beginOffset": 16423
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "The new building has themed floors...pretty cool Youtube is all about what you want to do.",
+        "beginOffset": 16477
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "If you don't have the intentions of uploading you jeopardize your audience.",
+        "beginOffset": 16568
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "So for the most part being able to be happy and able to upload content to people across the internet and then seeing the feedback from them in a positive way is truly a great experience.",
+        "beginOffset": 16644
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I consider myself creative person that is why working in youtube was a lot or fun for me.",
+        "beginOffset": 16831
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I could manage my day easily and work distantly from my lap top in needed.",
+        "beginOffset": 16921
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "My co-workers was professional and positive people who supported me and my ideas.",
+        "beginOffset": 16996
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "It's not high paying, but it is something I love doing.",
+        "beginOffset": 17078
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "You're your own boss and you can have fun with it.",
+        "beginOffset": 17134
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Although, it is not easy making content when it's just you against the world.",
+        "beginOffset": 17185
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Good thing I can set my own hours.",
+        "beginOffset": 17263
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am currently a content creator on Youtube.com where Imake money from time to time making videos for the website.",
+        "beginOffset": 17298
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "This is when I have free time.",
+        "beginOffset": 17413
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I make videos for the website and if it gets a decent amount of views, I will be able to get paid for it.",
+        "beginOffset": 17444
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I was my own boss and I got to work from home so I think that it was a great job I got a lot of experience and I enjoyed every moment of it.",
+        "beginOffset": 17550
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Its not really a job, more like a hobby that I really enjoy.",
+        "beginOffset": 17691
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "It's like a social media/video internship that allows me to build my audience and teach others.",
+        "beginOffset": 17752
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I learn a lot about myself and my skills the more I upload.",
+        "beginOffset": 17848
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "It teaches you how to be consistent and to push yourself.",
+        "beginOffset": 17908
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "~My day would consist of playing games while commentating and recording.~My co-worker was fun and enjoyable to work with we got along great.~I learned how to commentate over games and not get distracted as easy.~The hardest part of the job is to get good enough content.~The most enjoyable part of the joy is playing with my buddy and entertaining others I love the youtube community it not just let you make money by videos you have to have talent also with the patience to work with others and keep at it and you wont be disapointed It was okay.",
+        "beginOffset": 17966
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "It was quite okay.",
+        "beginOffset": 18514
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Really quite okay.",
+        "beginOffset": 18533
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Okay is in average.",
+        "beginOffset": 18552
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Not really good.",
+        "beginOffset": 18572
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Not really bad.",
+        "beginOffset": 18589
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Bad, good, good, bad.",
+        "beginOffset": 18605
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Amazing teams that support each other and helps each other grow.",
+        "beginOffset": 18627
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Mangers are supportive and they encourage innovative ideas.",
+        "beginOffset": 18692
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I currently run this channel and upload computer guides and other tech related things.",
+        "beginOffset": 18752
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "It's a great company.",
+        "beginOffset": 18839
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "i like this job i hope evryone gets this job!",
+        "beginOffset": 18861
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "u get paid 100 bucks good for teens or people with no college or university diploma Estimated content structure of watch time on YouTube, and developed 3 classification models for classifying specific types of YouTube videos.",
+        "beginOffset": 18907
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube provides a great working environment as well as good work-life balance perks.",
+        "beginOffset": 19133
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Provides Breakfast and lunch, and dinner on certain days of a week.",
+        "beginOffset": 19219
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Snacks always stocked.",
+        "beginOffset": 19287
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Friendly co-workers and great working environment.",
+        "beginOffset": 19310
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Absolutely thrilling to create my own concepts, skits and dialogue, record and edit my own footage and handle behind the scenes business transactions in reagards to choosing background instrumentals.",
+        "beginOffset": 19361
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube allows me to utilize all of my talents, which is very fulfilling.",
+        "beginOffset": 19561
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I decided when and for how long I wanted to work.",
+        "beginOffset": 19635
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I started off by giving myself a goal of how many videos I wanted to make per day, which was 5.",
+        "beginOffset": 19685
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Doing that was great, didn't eat up time, and was perfect for me to start learning the basics of work = pay.",
+        "beginOffset": 19781
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I learned a lot from my whole experience and it has turned me into a driven individual.",
+        "beginOffset": 19890
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "My work depends on new video games release.",
+        "beginOffset": 19978
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I learned how to graphic design, do video production, commentate over footages.",
+        "beginOffset": 20023
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "great place to work at great food great people love working here lots of things going on on a daily basis Write content.",
+        "beginOffset": 20103
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Edit it.",
+        "beginOffset": 20224
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Upload.",
+        "beginOffset": 20233
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Promote through Twitter and Facebook.",
+        "beginOffset": 20241
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Create quality and you may succeed.",
+        "beginOffset": 20279
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Very fun making your own videos for money but if you do not constantly increase viewers and ad impressions then you can be shut off.",
+        "beginOffset": 20315
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "It was also stressful to have almost no technical support from a company as large as Google and there was a lac of Security as many policies changed from month to month in some cases.",
+        "beginOffset": 20448
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I'm a self sufficient owner of a YouTube channel.",
+        "beginOffset": 20632
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I create content and videos and sell space for advertisements!",
+        "beginOffset": 20682
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Developing strategies for creating content and developing an audience is extremely difficult.",
+        "beginOffset": 20745
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I work from home in my spare time doing tutorials and reviews on cellphones, computers, and other technology.",
+        "beginOffset": 20839
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "In my 10+ years of sales experience, I've learned that one must show excitement and be enthused in order to show that you really believe in what you're selling or working with.",
+        "beginOffset": 20949
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "There aren't really hard parts of this job as I do it in my spare time.",
+        "beginOffset": 21126
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "The most enjoyable part is that I get to help people from all walks of life and in return I'm their go-to guy.",
+        "beginOffset": 21198
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "With YouTube, I work on my own time.",
+        "beginOffset": 21309
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I must be self-motivated to script, film, and edit my videos.",
+        "beginOffset": 21346
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I'm my own boss and the money I make is dependent on how much effort I put into the site.",
+        "beginOffset": 21408
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Very enjoyable.",
+        "beginOffset": 21498
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I love the youtube community it not just let you make money by videos you have to have talent also with the patience to work with others and keep at it and you wont be disapointed Just so you know, this is a Job you take completely upon yourself to do.",
+        "beginOffset": 21514
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "No bosses, no deadlines, its all up to you.",
+        "beginOffset": 21767
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Your paycheck is up to you, and the quality of your work is up to you.",
+        "beginOffset": 21811
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Its fun and on your own pace to work for.",
+        "beginOffset": 21882
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I liked how I can upload my own gaming videos for laughs.",
+        "beginOffset": 21924
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Its real easy to use for your own pleasure.",
+        "beginOffset": 21982
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I suggest it.",
+        "beginOffset": 22026
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I can make my own schedule.",
+        "beginOffset": 22040
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I also like ro collab with other youtube stars to get my channel more noticed.",
+        "beginOffset": 22068
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "My subscribers grown increasingly everyday.",
+        "beginOffset": 22147
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube wasn't really a Job i was looking for , more like to help people with problems.",
+        "beginOffset": 22191
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The money just came with it.",
+        "beginOffset": 22279
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "It was fun while it lasted but with everything..",
+        "beginOffset": 22308
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "it had to come to an end.",
+        "beginOffset": 22357
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I do recommend it to anyone who feels like they have the social skill to speak in front of thousands of people.",
+        "beginOffset": 22383
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "But if you feel like it.''",
+        "beginOffset": 22495
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "be a lot of pressure, the weight of the stress can catch up to you easily.",
+        "beginOffset": 22522
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "It is the best but I love it because it makes me exciting to make video for fun in the world and so I want to go to get a new job because I rather get more money So awesome that some Creators like myself are able to create youtube videos and get a little cash every month or so!",
+        "beginOffset": 22597
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Don't have to leave the house and you get to be yourself with your own schedule!",
+        "beginOffset": 22876
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a very interesting job to have.",
+        "beginOffset": 22957
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It comes with it's benefits but it also comes with its negatives that most people don't realize.",
+        "beginOffset": 23000
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Its unpredictability being number one.",
+        "beginOffset": 23097
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube was more of a hobby than a job really.",
+        "beginOffset": 23136
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "It's fun because I could use my own ideas whenever I felt like.",
+        "beginOffset": 23183
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "As a content creator YouTube was about your imagination and what you wanted to put out there.",
+        "beginOffset": 23247
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "People have to figure out what works for you there are sometimes hostile environments and places and sometimes people who are not easy or willing to work with others.",
+        "beginOffset": 23341
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "While I did not specifically work at the headquarters, I actively create content for my channel.",
+        "beginOffset": 23508
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Content creators must always stay on top of current trends and have the most up to date hardware and software in order to compete.",
+        "beginOffset": 23605
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a job that allows you to be yourself and do whatever you desire to do.",
+        "beginOffset": 23736
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The hard thing about YouTube is actually making money, it may take time and patience, Good place for someone who is looking to be a self managing person and wanting to work on their own and succeed by themself and manage their payments to.",
+        "beginOffset": 23818
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube give me the oportunity to work at home doing what I love to do.",
+        "beginOffset": 24058
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The webset have their problems but in my opinion is a great place do share your ideas.",
+        "beginOffset": 24130
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I learned that there are benefit's in improving other people's lives' by making a video.",
+        "beginOffset": 24217
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I am thankful for having to share and create content of my own for other people to enjoy.",
+        "beginOffset": 24306
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Diverse.",
+        "beginOffset": 24396
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Room for everyone to grow.",
+        "beginOffset": 24405
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Great place to be a part of .",
+        "beginOffset": 24432
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am having a good experience.",
+        "beginOffset": 24462
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Everyone will not have the same experiences.",
+        "beginOffset": 24493
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I truly enjoy ever part of it.",
+        "beginOffset": 24538
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Earning your way to a steady income and reliable one at that through YouTube is remarkably difficult.",
+        "beginOffset": 24569
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "But it is a very appealing and satisfying to career to succeed in.",
+        "beginOffset": 24671
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Great people and great products.",
+        "beginOffset": 24738
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "You really feel like you work at the best company in the world.",
+        "beginOffset": 24771
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They treat you well and empower you to be the best you can be through training, coaching and development.",
+        "beginOffset": 24835
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I love 'working' here it is more so a hobby than anything else due to the fact I am 15 and do aspire to become a professional actress but I enjoy YouTube so much I would not mind doing this as an actual job.",
+        "beginOffset": 24941
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "work from home and do what you love.",
+        "beginOffset": 25149
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "You have to fund all your expenses like computer , camera and editing software.",
+        "beginOffset": 25186
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If you stick to it the outcome can be amazing.",
+        "beginOffset": 25266
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a fun place to work at cause you can work at home and make your own hours and you can make videos of what you love like gaming  making skits and and more I love the youtube community it not just let you make money by videos you have to have talent also with the patience to work with others and keep at it and you wont be disapointed Just so you know, this is a Job you take completely upon yourself to do.",
+        "beginOffset": 25313
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "No bosses, no deadlines, its all up to you.",
+        "beginOffset": 25731
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Your paycheck is up to you, and the quality of your work is up to you.",
+        "beginOffset": 25775
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Its fun and on your own pace to work for.",
+        "beginOffset": 25846
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I liked how I can upload my own gaming videos for laughs.",
+        "beginOffset": 25888
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Its real easy to use for your own pleasure.",
+        "beginOffset": 25946
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I suggest it.",
+        "beginOffset": 25990
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I can make my own schedule.",
+        "beginOffset": 26004
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I also like ro collab with other youtube stars to get my channel more noticed.",
+        "beginOffset": 26032
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "My subscribers grown increasingly everyday.",
+        "beginOffset": 26111
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube wasn't really a Job i was looking for , more like to help people with problems.",
+        "beginOffset": 26155
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The money just came with it.",
+        "beginOffset": 26243
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "It was fun while it lasted but with everything..",
+        "beginOffset": 26272
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "it had to come to an end.",
+        "beginOffset": 26321
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I do recommend it to anyone who feels like they have the social skill to speak in front of thousands of people.",
+        "beginOffset": 26347
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "But if you feel like it.''",
+        "beginOffset": 26459
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "be a lot of pressure, the weight of the stress can catch up to you easily.",
+        "beginOffset": 26486
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "It is the best but I love it because it makes me exciting to make video for fun in the world and so I want to go to get a new job because I rather get more money So awesome that some Creators like myself are able to create youtube videos and get a little cash every month or so!",
+        "beginOffset": 26561
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Don't have to leave the house and you get to be yourself with your own schedule!",
+        "beginOffset": 26840
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a very interesting job to have.",
+        "beginOffset": 26921
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It comes with it's benefits but it also comes with its negatives that most people don't realize.",
+        "beginOffset": 26964
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Its unpredictability being number one.",
+        "beginOffset": 27061
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube was more of a hobby than a job really.",
+        "beginOffset": 27100
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "It's fun because I could use my own ideas whenever I felt like.",
+        "beginOffset": 27147
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "As a content creator YouTube was about your imagination and what you wanted to put out there.",
+        "beginOffset": 27211
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "People have to figure out what works for you there are sometimes hostile environments and places and sometimes people who are not easy or willing to work with others.",
+        "beginOffset": 27305
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "While I did not specifically work at the headquarters, I actively create content for my channel.",
+        "beginOffset": 27472
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Content creators must always stay on top of current trends and have the most up to date hardware and software in order to compete.",
+        "beginOffset": 27569
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a job that allows you to be yourself and do whatever you desire to do.",
+        "beginOffset": 27700
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The hard thing about YouTube is actually making money, it may take time and patience, Good place for someone who is looking to be a self managing person and wanting to work on their own and succeed by themself and manage their payments to.",
+        "beginOffset": 27782
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube give me the oportunity to work at home doing what I love to do.",
+        "beginOffset": 28022
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The webset have their problems but in my opinion is a great place do share your ideas.",
+        "beginOffset": 28094
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I learned that there are benefit's in improving other people's lives' by making a video.",
+        "beginOffset": 28181
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I am thankful for having to share and create content of my own for other people to enjoy.",
+        "beginOffset": 28270
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Diverse.",
+        "beginOffset": 28360
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Room for everyone to grow.",
+        "beginOffset": 28369
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Great place to be a part of .",
+        "beginOffset": 28396
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am having a good experience.",
+        "beginOffset": 28426
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Everyone will not have the same experiences.",
+        "beginOffset": 28457
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I truly enjoy ever part of it.",
+        "beginOffset": 28502
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Earning your way to a steady income and reliable one at that through YouTube is remarkably difficult.",
+        "beginOffset": 28533
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "But it is a very appealing and satisfying to career to succeed in.",
+        "beginOffset": 28635
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Great people and great products.",
+        "beginOffset": 28702
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "You really feel like you work at the best company in the world.",
+        "beginOffset": 28735
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They treat you well and empower you to be the best you can be through training, coaching and development.",
+        "beginOffset": 28799
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I love 'working' here it is more so a hobby than anything else due to the fact I am 15 and do aspire to become a professional actress but I enjoy YouTube so much I would not mind doing this as an actual job.",
+        "beginOffset": 28905
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "work from home and do what you love.",
+        "beginOffset": 29113
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "You have to fund all your expenses like computer , camera and editing software.",
+        "beginOffset": 29150
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If you stick to it the outcome can be amazing.",
+        "beginOffset": 29230
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a fun place to work at cause you can work at home and make your own hours and you can make videos of what you love like gaming  making skits and and more I love the youtube community it not just let you make money by videos you have to have talent also with the patience to work with others and keep at it and you wont be disapointed Just so you know, this is a Job you take completely upon yourself to do.",
+        "beginOffset": 29277
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "No bosses, no deadlines, its all up to you.",
+        "beginOffset": 29695
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Your paycheck is up to you, and the quality of your work is up to you.",
+        "beginOffset": 29739
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Its fun and on your own pace to work for.",
+        "beginOffset": 29810
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I liked how I can upload my own gaming videos for laughs.",
+        "beginOffset": 29852
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Its real easy to use for your own pleasure.",
+        "beginOffset": 29910
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I suggest it.",
+        "beginOffset": 29954
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I can make my own schedule.",
+        "beginOffset": 29968
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I also like ro collab with other youtube stars to get my channel more noticed.",
+        "beginOffset": 29996
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "My subscribers grown increasingly everyday.",
+        "beginOffset": 30075
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube wasn't really a Job i was looking for , more like to help people with problems.",
+        "beginOffset": 30119
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The money just came with it.",
+        "beginOffset": 30207
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "It was fun while it lasted but with everything..",
+        "beginOffset": 30236
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "it had to come to an end.",
+        "beginOffset": 30285
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I do recommend it to anyone who feels like they have the social skill to speak in front of thousands of people.",
+        "beginOffset": 30311
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "But if you feel like it.''",
+        "beginOffset": 30423
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "be a lot of pressure, the weight of the stress can catch up to you easily.",
+        "beginOffset": 30450
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "It is the best but I love it because it makes me exciting to make video for fun in the world and so I want to go to get a new job because I rather get more money So awesome that some Creators like myself are able to create youtube videos and get a little cash every month or so!",
+        "beginOffset": 30525
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Don't have to leave the house and you get to be yourself with your own schedule!",
+        "beginOffset": 30804
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a very interesting job to have.",
+        "beginOffset": 30885
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It comes with it's benefits but it also comes with its negatives that most people don't realize.",
+        "beginOffset": 30928
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Its unpredictability being number one.",
+        "beginOffset": 31025
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube was more of a hobby than a job really.",
+        "beginOffset": 31064
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "It's fun because I could use my own ideas whenever I felt like.",
+        "beginOffset": 31111
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "As a content creator YouTube was about your imagination and what you wanted to put out there.",
+        "beginOffset": 31175
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "People have to figure out what works for you there are sometimes hostile environments and places and sometimes people who are not easy or willing to work with others.",
+        "beginOffset": 31269
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "While I did not specifically work at the headquarters, I actively create content for my channel.",
+        "beginOffset": 31436
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Content creators must always stay on top of current trends and have the most up to date hardware and software in order to compete.",
+        "beginOffset": 31533
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a job that allows you to be yourself and do whatever you desire to do.",
+        "beginOffset": 31664
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The hard thing about YouTube is actually making money, it may take time and patience, Good place for someone who is looking to be a self managing person and wanting to work on their own and succeed by themself and manage their payments to.",
+        "beginOffset": 31746
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube give me the oportunity to work at home doing what I love to do.",
+        "beginOffset": 31986
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The webset have their problems but in my opinion is a great place do share your ideas.",
+        "beginOffset": 32058
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I learned that there are benefit's in improving other people's lives' by making a video.",
+        "beginOffset": 32145
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I am thankful for having to share and create content of my own for other people to enjoy.",
+        "beginOffset": 32234
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Diverse.",
+        "beginOffset": 32324
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Room for everyone to grow.",
+        "beginOffset": 32333
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Great place to be a part of .",
+        "beginOffset": 32360
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am having a good experience.",
+        "beginOffset": 32390
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Everyone will not have the same experiences.",
+        "beginOffset": 32421
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I truly enjoy ever part of it.",
+        "beginOffset": 32466
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Earning your way to a steady income and reliable one at that through YouTube is remarkably difficult.",
+        "beginOffset": 32497
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "But it is a very appealing and satisfying to career to succeed in.",
+        "beginOffset": 32599
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Great people and great products.",
+        "beginOffset": 32666
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "You really feel like you work at the best company in the world.",
+        "beginOffset": 32699
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They treat you well and empower you to be the best you can be through training, coaching and development.",
+        "beginOffset": 32763
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I love 'working' here it is more so a hobby than anything else due to the fact I am 15 and do aspire to become a professional actress but I enjoy YouTube so much I would not mind doing this as an actual job.",
+        "beginOffset": 32869
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "work from home and do what you love.",
+        "beginOffset": 33077
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "You have to fund all your expenses like computer , camera and editing software.",
+        "beginOffset": 33114
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If you stick to it the outcome can be amazing.",
+        "beginOffset": 33194
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a fun place to work at cause you can work at home and make your own hours and you can make videos of what you love like gaming  making skits and and more I love the youtube community it not just let you make money by videos you have to have talent also with the patience to work with others and keep at it and you wont be disapointed Just so you know, this is a Job you take completely upon yourself to do.",
+        "beginOffset": 33241
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "No bosses, no deadlines, its all up to you.",
+        "beginOffset": 33659
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Your paycheck is up to you, and the quality of your work is up to you.",
+        "beginOffset": 33703
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Its fun and on your own pace to work for.",
+        "beginOffset": 33774
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I liked how I can upload my own gaming videos for laughs.",
+        "beginOffset": 33816
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Its real easy to use for your own pleasure.",
+        "beginOffset": 33874
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I suggest it.",
+        "beginOffset": 33918
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I can make my own schedule.",
+        "beginOffset": 33932
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I also like ro collab with other youtube stars to get my channel more noticed.",
+        "beginOffset": 33960
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "My subscribers grown increasingly everyday.",
+        "beginOffset": 34039
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube wasn't really a Job i was looking for , more like to help people with problems.",
+        "beginOffset": 34083
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The money just came with it.",
+        "beginOffset": 34171
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "It was fun while it lasted but with everything..",
+        "beginOffset": 34200
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "it had to come to an end.",
+        "beginOffset": 34249
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I do recommend it to anyone who feels like they have the social skill to speak in front of thousands of people.",
+        "beginOffset": 34275
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "But if you feel like it.''",
+        "beginOffset": 34387
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "be a lot of pressure, the weight of the stress can catch up to you easily.",
+        "beginOffset": 34414
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "It is the best but I love it because it makes me exciting to make video for fun in the world and so I want to go to get a new job because I rather get more money So awesome that some Creators like myself are able to create youtube videos and get a little cash every month or so!",
+        "beginOffset": 34489
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Don't have to leave the house and you get to be yourself with your own schedule!",
+        "beginOffset": 34768
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a very interesting job to have.",
+        "beginOffset": 34849
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It comes with it's benefits but it also comes with its negatives that most people don't realize.",
+        "beginOffset": 34892
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Its unpredictability being number one.",
+        "beginOffset": 34989
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube was more of a hobby than a job really.",
+        "beginOffset": 35028
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "It's fun because I could use my own ideas whenever I felt like.",
+        "beginOffset": 35075
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "As a content creator YouTube was about your imagination and what you wanted to put out there.",
+        "beginOffset": 35139
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "People have to figure out what works for you there are sometimes hostile environments and places and sometimes people who are not easy or willing to work with others.",
+        "beginOffset": 35233
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "While I did not specifically work at the headquarters, I actively create content for my channel.",
+        "beginOffset": 35400
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Content creators must always stay on top of current trends and have the most up to date hardware and software in order to compete.",
+        "beginOffset": 35497
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a job that allows you to be yourself and do whatever you desire to do.",
+        "beginOffset": 35628
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The hard thing about YouTube is actually making money, it may take time and patience, Good place for someone who is looking to be a self managing person and wanting to work on their own and succeed by themself and manage their payments to.",
+        "beginOffset": 35710
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube give me the oportunity to work at home doing what I love to do.",
+        "beginOffset": 35950
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The webset have their problems but in my opinion is a great place do share your ideas.",
+        "beginOffset": 36022
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I learned that there are benefit's in improving other people's lives' by making a video.",
+        "beginOffset": 36109
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I am thankful for having to share and create content of my own for other people to enjoy.",
+        "beginOffset": 36198
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Diverse.",
+        "beginOffset": 36288
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Room for everyone to grow.",
+        "beginOffset": 36297
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Great place to be a part of .",
+        "beginOffset": 36324
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am having a good experience.",
+        "beginOffset": 36354
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Everyone will not have the same experiences.",
+        "beginOffset": 36385
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I truly enjoy ever part of it.",
+        "beginOffset": 36430
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Earning your way to a steady income and reliable one at that through YouTube is remarkably difficult.",
+        "beginOffset": 36461
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "But it is a very appealing and satisfying to career to succeed in.",
+        "beginOffset": 36563
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Great people and great products.",
+        "beginOffset": 36630
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "You really feel like you work at the best company in the world.",
+        "beginOffset": 36663
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They treat you well and empower you to be the best you can be through training, coaching and development.",
+        "beginOffset": 36727
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I love 'working' here it is more so a hobby than anything else due to the fact I am 15 and do aspire to become a professional actress but I enjoy YouTube so much I would not mind doing this as an actual job.",
+        "beginOffset": 36833
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "work from home and do what you love.",
+        "beginOffset": 37041
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "You have to fund all your expenses like computer , camera and editing software.",
+        "beginOffset": 37078
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If you stick to it the outcome can be amazing.",
+        "beginOffset": 37158
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a fun place to work at cause you can work at home and make your own hours and you can make videos of what you love like gaming  making skits and and more I love the youtube community it not just let you make money by videos you have to have talent also with the patience to work with others and keep at it and you wont be disapointed Just so you know, this is a Job you take completely upon yourself to do.",
+        "beginOffset": 37205
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "No bosses, no deadlines, its all up to you.",
+        "beginOffset": 37623
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Your paycheck is up to you, and the quality of your work is up to you.",
+        "beginOffset": 37667
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Its fun and on your own pace to work for.",
+        "beginOffset": 37738
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I liked how I can upload my own gaming videos for laughs.",
+        "beginOffset": 37780
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Its real easy to use for your own pleasure.",
+        "beginOffset": 37838
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I suggest it.",
+        "beginOffset": 37882
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I can make my own schedule.",
+        "beginOffset": 37896
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I also like ro collab with other youtube stars to get my channel more noticed.",
+        "beginOffset": 37924
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "My subscribers grown increasingly everyday.",
+        "beginOffset": 38003
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube wasn't really a Job i was looking for , more like to help people with problems.",
+        "beginOffset": 38047
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The money just came with it.",
+        "beginOffset": 38135
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "It was fun while it lasted but with everything..",
+        "beginOffset": 38164
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "it had to come to an end.",
+        "beginOffset": 38213
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I do recommend it to anyone who feels like they have the social skill to speak in front of thousands of people.",
+        "beginOffset": 38239
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "But if you feel like it.''",
+        "beginOffset": 38351
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "be a lot of pressure, the weight of the stress can catch up to you easily.",
+        "beginOffset": 38378
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "It is the best but I love it because it makes me exciting to make video for fun in the world and so I want to go to get a new job because I rather get more money So awesome that some Creators like myself are able to create youtube videos and get a little cash every month or so!",
+        "beginOffset": 38453
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Don't have to leave the house and you get to be yourself with your own schedule!",
+        "beginOffset": 38732
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a very interesting job to have.",
+        "beginOffset": 38813
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It comes with it's benefits but it also comes with its negatives that most people don't realize.",
+        "beginOffset": 38856
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Its unpredictability being number one.",
+        "beginOffset": 38953
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube was more of a hobby than a job really.",
+        "beginOffset": 38992
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "It's fun because I could use my own ideas whenever I felt like.",
+        "beginOffset": 39039
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "As a content creator YouTube was about your imagination and what you wanted to put out there.",
+        "beginOffset": 39103
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "People have to figure out what works for you there are sometimes hostile environments and places and sometimes people who are not easy or willing to work with others.",
+        "beginOffset": 39197
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "While I did not specifically work at the headquarters, I actively create content for my channel.",
+        "beginOffset": 39364
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Content creators must always stay on top of current trends and have the most up to date hardware and software in order to compete.",
+        "beginOffset": 39461
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a job that allows you to be yourself and do whatever you desire to do.",
+        "beginOffset": 39592
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The hard thing about YouTube is actually making money, it may take time and patience, Good place for someone who is looking to be a self managing person and wanting to work on their own and succeed by themself and manage their payments to.",
+        "beginOffset": 39674
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube give me the oportunity to work at home doing what I love to do.",
+        "beginOffset": 39914
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The webset have their problems but in my opinion is a great place do share your ideas.",
+        "beginOffset": 39986
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I learned that there are benefit's in improving other people's lives' by making a video.",
+        "beginOffset": 40073
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I am thankful for having to share and create content of my own for other people to enjoy.",
+        "beginOffset": 40162
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Diverse.",
+        "beginOffset": 40252
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Room for everyone to grow.",
+        "beginOffset": 40261
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Great place to be a part of .",
+        "beginOffset": 40288
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am having a good experience.",
+        "beginOffset": 40318
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Everyone will not have the same experiences.",
+        "beginOffset": 40349
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I truly enjoy ever part of it.",
+        "beginOffset": 40394
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Earning your way to a steady income and reliable one at that through YouTube is remarkably difficult.",
+        "beginOffset": 40425
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "But it is a very appealing and satisfying to career to succeed in.",
+        "beginOffset": 40527
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Great people and great products.",
+        "beginOffset": 40594
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "You really feel like you work at the best company in the world.",
+        "beginOffset": 40627
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They treat you well and empower you to be the best you can be through training, coaching and development.",
+        "beginOffset": 40691
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I love 'working' here it is more so a hobby than anything else due to the fact I am 15 and do aspire to become a professional actress but I enjoy YouTube so much I would not mind doing this as an actual job.",
+        "beginOffset": 40797
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "work from home and do what you love.",
+        "beginOffset": 41005
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "You have to fund all your expenses like computer , camera and editing software.",
+        "beginOffset": 41042
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If you stick to it the outcome can be amazing.",
+        "beginOffset": 41122
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a fun place to work at cause you can work at home and make your own hours and you can make videos of what you love like gaming  making skits and and more I love the youtube community it not just let you make money by videos you have to have talent also with the patience to work with others and keep at it and you wont be disapointed Just so you know, this is a Job you take completely upon yourself to do.",
+        "beginOffset": 41169
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "No bosses, no deadlines, its all up to you.",
+        "beginOffset": 41587
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Your paycheck is up to you, and the quality of your work is up to you.",
+        "beginOffset": 41631
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Its fun and on your own pace to work for.",
+        "beginOffset": 41702
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I liked how I can upload my own gaming videos for laughs.",
+        "beginOffset": 41744
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Its real easy to use for your own pleasure.",
+        "beginOffset": 41802
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I suggest it.",
+        "beginOffset": 41846
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I can make my own schedule.",
+        "beginOffset": 41860
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I also like ro collab with other youtube stars to get my channel more noticed.",
+        "beginOffset": 41888
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "My subscribers grown increasingly everyday.",
+        "beginOffset": 41967
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube wasn't really a Job i was looking for , more like to help people with problems.",
+        "beginOffset": 42011
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The money just came with it.",
+        "beginOffset": 42099
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "It was fun while it lasted but with everything..",
+        "beginOffset": 42128
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "it had to come to an end.",
+        "beginOffset": 42177
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I do recommend it to anyone who feels like they have the social skill to speak in front of thousands of people.",
+        "beginOffset": 42203
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "But if you feel like it.''",
+        "beginOffset": 42315
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "be a lot of pressure, the weight of the stress can catch up to you easily.",
+        "beginOffset": 42342
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "It is the best but I love it because it makes me exciting to make video for fun in the world and so I want to go to get a new job because I rather get more money So awesome that some Creators like myself are able to create youtube videos and get a little cash every month or so!",
+        "beginOffset": 42417
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Don't have to leave the house and you get to be yourself with your own schedule!",
+        "beginOffset": 42696
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a very interesting job to have.",
+        "beginOffset": 42777
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It comes with it's benefits but it also comes with its negatives that most people don't realize.",
+        "beginOffset": 42820
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Its unpredictability being number one.",
+        "beginOffset": 42917
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube was more of a hobby than a job really.",
+        "beginOffset": 42956
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "It's fun because I could use my own ideas whenever I felt like.",
+        "beginOffset": 43003
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "As a content creator YouTube was about your imagination and what you wanted to put out there.",
+        "beginOffset": 43067
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "People have to figure out what works for you there are sometimes hostile environments and places and sometimes people who are not easy or willing to work with others.",
+        "beginOffset": 43161
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "While I did not specifically work at the headquarters, I actively create content for my channel.",
+        "beginOffset": 43328
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Content creators must always stay on top of current trends and have the most up to date hardware and software in order to compete.",
+        "beginOffset": 43425
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a job that allows you to be yourself and do whatever you desire to do.",
+        "beginOffset": 43556
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The hard thing about YouTube is actually making money, it may take time and patience, Good place for someone who is looking to be a self managing person and wanting to work on their own and succeed by themself and manage their payments to.",
+        "beginOffset": 43638
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Youtube give me the oportunity to work at home doing what I love to do.",
+        "beginOffset": 43878
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The webset have their problems but in my opinion is a great place do share your ideas.",
+        "beginOffset": 43950
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I learned that there are benefit's in improving other people's lives' by making a video.",
+        "beginOffset": 44037
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I am thankful for having to share and create content of my own for other people to enjoy.",
+        "beginOffset": 44126
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Diverse.",
+        "beginOffset": 44216
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Room for everyone to grow.",
+        "beginOffset": 44225
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Great place to be a part of .",
+        "beginOffset": 44252
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am having a good experience.",
+        "beginOffset": 44282
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Everyone will not have the same experiences.",
+        "beginOffset": 44313
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I truly enjoy ever part of it.",
+        "beginOffset": 44358
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Earning your way to a steady income and reliable one at that through YouTube is remarkably difficult.",
+        "beginOffset": 44389
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "But it is a very appealing and satisfying to career to succeed in.",
+        "beginOffset": 44491
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Great people and great products.",
+        "beginOffset": 44558
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "You really feel like you work at the best company in the world.",
+        "beginOffset": 44591
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They treat you well and empower you to be the best you can be through training, coaching and development.",
+        "beginOffset": 44655
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I love 'working' here it is more so a hobby than anything else due to the fact I am 15 and do aspire to become a professional actress but I enjoy YouTube so much I would not mind doing this as an actual job.",
+        "beginOffset": 44761
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "work from home and do what you love.",
+        "beginOffset": 44969
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "You have to fund all your expenses like computer , camera and editing software.",
+        "beginOffset": 45006
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If you stick to it the outcome can be amazing.",
+        "beginOffset": 45086
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "YouTube is a fun place to work at cause you can work at home and make your own hours and you can make videos of what you love like gaming  making skits and and more",
+        "beginOffset": 45133
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ]
+}

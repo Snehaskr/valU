@@ -1,0 +1,299 @@
+{
+  "documentSentiment": {
+    "magnitude": 20.2,
+    "score": 0.5
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Tumblr handled it the best it could, but with so much change due to the acquisition of Yahoo by Verizon, not much could be helped!",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I had a lot of fun during my time there, but I'm sure under Oath and with David Karp leaving, it will be a completely different company.",
+        "beginOffset": 131
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Poor management, I was hired to do a role and started doing something else, bad hours, unstable for future.",
+        "beginOffset": 268
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The workplace culture is nice but it get annoying after a while Tumblr had a great culture - best of the best - but Yahoo kept them on a short leash which ran off most of the heavy hitters, Verizon keeps them on an even shorter leash.",
+        "beginOffset": 376
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The atmosphere is still there and the kitchen is full of snacks, but the spark has gone.Tumblr is extremely confident in creating their user experience and new features are added to their application at a rapid pace.",
+        "beginOffset": 611
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "However they are timid when it comes to technology and reluctant to change or upgrade anything.This is not the place to be if your interested in the latest technology or practices.Management is hit and miss - advancement is primarily based on demonstrating your alcohol tolerance.Turnover is fairly high, some teams turn over multiple times per year.",
+        "beginOffset": 828
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "PHP coders are the top of the totem, but your using a heavily modified version of an an ancient PHP framework so your experience may not translate well in your next gig.",
+        "beginOffset": 1179
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Apresentação dos trabalhos realizados durante o Curso de Publicidade e propaganda, bem como os trabalhos extracurriculares exercidos por mim durante os anos de 2016 e 2017.",
+        "beginOffset": 1349
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I loved all my time working here.",
+        "beginOffset": 1524
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They worked very hard to maintain the 'start up' culture in the office and they very much promote advancement in your career.",
+        "beginOffset": 1558
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Management has always been fair and flexible in my departments.",
+        "beginOffset": 1684
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Tumblr has recently announced that they will start paying bloggers, however this is to come in the future.",
+        "beginOffset": 1748
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "For now you need to seek third party businesses in order to monetize your site.",
+        "beginOffset": 1855
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Depending on your traffic, it is good passive income.",
+        "beginOffset": 1935
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Tumblr was honestly an amazing place to start working because it set the standards high for all my future work environments.",
+        "beginOffset": 1989
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "My managers were supportive and effective and my coworkers were friendly.",
+        "beginOffset": 2114
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The company fostered a really open work environment were people were encouraged to mingle with other departments and understand how other people's work affected them.",
+        "beginOffset": 2188
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I think the free food and casual atmosphere helped people take breaks and socialize when they needed to and to get more work done without burning out.Most importantly, my job taught me how tech and social media companies work and how intellectual property laws affect them.",
+        "beginOffset": 2355
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It was a fascinating look into the way site policies were informed and reformed as well.",
+        "beginOffset": 2629
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Great culture and growing company.",
+        "beginOffset": 2718
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Fun place to work and think on your feet.",
+        "beginOffset": 2753
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Have the ability to make an impact on the company and bottom line.",
+        "beginOffset": 2795
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I joined Tumblr blogging web site in 2012, to share and contribute my love of the hit cable series, The Walking Dead.",
+        "beginOffset": 2862
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The site is nicely outlined and formatted for experienced bloggers and writers to compose stories, fiction, media footage, quotes, and photos.",
+        "beginOffset": 2981
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Many bloggers have thousands of followers, others have several hundred.",
+        "beginOffset": 3125
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Presently, Tumblr is the only media blog site I know of that is solely dedicated to Entertainment.",
+        "beginOffset": 3197
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "It also is a terrific avenue for newbies to practice and perfect their writing, designing, and blogging skills.",
+        "beginOffset": 3297
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Tumblr has trained me for this social media frenzy of a world we live in and has taught me the essentials.",
+        "beginOffset": 3409
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Trend-forecasting and fashion history research played a major part as well.",
+        "beginOffset": 3516
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ]
+}

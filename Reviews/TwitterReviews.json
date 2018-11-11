@@ -1,0 +1,1909 @@
+{
+  "documentSentiment": {
+    "magnitude": 132.7,
+    "score": 0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Awesome smart coworkers - driven, passionate and knowledgeableGood benefits - phone, fitness, 401k, discounted hotels etc.Low insurance premiumsFree food - Breakfast and Lunch.Lot of mini-kitchens with healthy snacks, drinks and Beer and wine.Encouragement to innovate and do things right.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Lot of hackweeks, parties and celebrations great application, great way to stay in touch on the latest developing news and thoughts from those you follow - real time sharing of ideas i highly recommend using.",
+        "beginOffset": 290
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Twitter was by far the best company I have ever worked for!",
+        "beginOffset": 499
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "From the people to the culture within the company, and having the ability to change the social space - it was a remarkable experience!",
+        "beginOffset": 559
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The culture at Twitter is very competitive and cut-throat.",
+        "beginOffset": 694
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I loved everyone I met, but I'd never met so many unhappy and stressed out people in my life.",
+        "beginOffset": 753
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I think the CEO doesn't care about his users or the people who work at Twitter.",
+        "beginOffset": 847
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Everyone I know who left is very happy about it.",
+        "beginOffset": 927
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Intense political maneuvering, not a meritocracy at all, hard work undervalued, upper management and HR eschew supposed company values of transparency and honesty, lack of transparency results in lack of candid conversations, no room for critical thinking or constructive feedback The best part of working at this company was the perks and also working with a reliable team who are determined to get the job done.",
+        "beginOffset": 976
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I also enjoyed the free meals that were provided and snacks and coffee.",
+        "beginOffset": 1390
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Most of the staff at different departments are friendly and communicative.",
+        "beginOffset": 1462
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The whole flooring design was spacious and well cleaned.",
+        "beginOffset": 1537
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Great product and team but leadership struggled to define what twitter was while I was there.",
+        "beginOffset": 1594
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "As such, the company wasn't as productive as it could be and it often felt like the consumer and business orgs weren't aligned.",
+        "beginOffset": 1688
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Twitter has been able to maintain their start-up culture and perks, and did a great job promoting health and wellness with their employees.",
+        "beginOffset": 1816
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Their on-site gym was a great facility that got people interacting outside their respective teams.",
+        "beginOffset": 1956
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "HR were very selective with their contracting with coaches who would manage and run the fitness program, but the engagement was always positive.",
+        "beginOffset": 2055
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Overall, great workplace for both employees and contract workers.",
+        "beginOffset": 2200
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "- Company culture is very open and supportive - My manager was very supportive and willing to teach - Breakfast, lunch and dinner provided with many micro kitchens Twitter was a great place to hone my IT skills.",
+        "beginOffset": 2266
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It provided a great working environment for the most part and gave me my first taste of working in Enterprise Tech.",
+        "beginOffset": 2478
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "With the high level of turnover, middle management spent more time trying to fight for status and swell their personal kingdoms, than they did fixing the product issues.A culture of millennials.",
+        "beginOffset": 2594
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Attrition was extremely high.",
+        "beginOffset": 2789
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Nice place to work.",
+        "beginOffset": 2819
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "overall, good culture.",
+        "beginOffset": 2839
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "co-workers are easy to work with and the management is easy to reach.",
+        "beginOffset": 2862
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "overall it is a good place to work.",
+        "beginOffset": 2934
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It was a pretty laid back environment with great advancement opportunities.",
+        "beginOffset": 2970
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The workplace culture was very different than your traditional work place.",
+        "beginOffset": 3046
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Twitter is a great place for any company or local business to advertise upcoming events and exhibitions in a straightforward, simple manner.",
+        "beginOffset": 3121
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Making a post is fast and easy to plan in advance.",
+        "beginOffset": 3262
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Read this review 5 years from now.",
+        "beginOffset": 3313
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "You'll understand the reason why it is now bankrupt and the company is defaulting failing.",
+        "beginOffset": 3348
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Horrible management unfair work conditions terrible work-life balance I wouldn't recommend this to anyone i really liked working at Twitter.",
+        "beginOffset": 3439
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They have a cafeteria full of free food.",
+        "beginOffset": 3580
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "they are conveniently located in Downtown SF where you can easily access the flagship location.",
+        "beginOffset": 3621
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "A lot of great people here passionate about the platform and its role in the world.",
+        "beginOffset": 3717
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The challenge is how best to convey that to customers.",
+        "beginOffset": 3802
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The Google & Facebook duopoly is real.",
+        "beginOffset": 3858
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Twitter wants to consider themselves in that same realm, but our clients are more likely to categorize us  in the 'nice to have' bucket including Amazon, Pinterest and Snap.",
+        "beginOffset": 3898
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "it does seem to be getting better, albeit slowly but the people responsible for making day to day decisions don't always seem to make informed decisions.",
+        "beginOffset": 4072
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "management seems to be more behind the curve and reactionary than able to plot out strategies and plan properly.",
+        "beginOffset": 4226
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Twitter has great benefits but low pay.",
+        "beginOffset": 4339
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Great people to work with and the culture is unbeatable.",
+        "beginOffset": 4379
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I would stay at Twitter longer but their salaries are not comparable to the marketplace.",
+        "beginOffset": 4436
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Enjoyed my time at Twitter although I was working in a Contract role.My day usually started at 7:30 and ended at 4:30.",
+        "beginOffset": 4525
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "It was a steady busy job which required a lot of contact via e-mail.",
+        "beginOffset": 4644
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "There was a lot of interfacing with the Account Manager, Order Management and Customer Support.",
+        "beginOffset": 4713
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The culture at Twitter was very friendly and the management staff took amazing care of the employees.",
+        "beginOffset": 4809
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It gave the employees a fast paced and challenging environment Awesome smart coworkers - driven, passionate and knowledgeableGood benefits - phone, fitness, 401k, discounted hotels etc.Low insurance premiumsFree food - Breakfast and Lunch.Lot of mini-kitchens with healthy snacks, drinks and Beer and wine.Encouragement to innovate and do things right.",
+        "beginOffset": 4911
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Lot of hackweeks, parties and celebrations Good work enviorment but the advancement is not what it should be.",
+        "beginOffset": 5264
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I am not getting paid the rate i should be so that is the reason why i would not recommend twitter.",
+        "beginOffset": 5374
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Middle management is absolutely horrible.",
+        "beginOffset": 5474
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Constant departures from leadership.",
+        "beginOffset": 5516
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "No growth opportunity.",
+        "beginOffset": 5553
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Only nice thing was supportive coworkers and perks such as free lunches + perks.",
+        "beginOffset": 5576
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "A typical day at work included signing in and watching over computer surveillance and also walking the perimeter of the building.",
+        "beginOffset": 5657
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I enjoyed my job here and the people I worked with.",
+        "beginOffset": 5787
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It's a hardworking and fast-paced environment.",
+        "beginOffset": 5839
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "If your not ready to work in a fast-paced environment this is not the job for you.",
+        "beginOffset": 5886
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "The Management is awesome and very professional.",
+        "beginOffset": 5969
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "From the culture to the food, everyting about Twitter is a great fit.",
+        "beginOffset": 6018
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I liked my day to day and the people I met.",
+        "beginOffset": 6088
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "It is definitely a insightful lookinto the tech industry just being around the environment.",
+        "beginOffset": 6132
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Cool, trendy company with all the extravagant SV startup perks and vibe.",
+        "beginOffset": 6224
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Engineers run the show, though, and no adult supervision means the inmates run the asylum.",
+        "beginOffset": 6298
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Best place to work never had a job that I loved as much.",
+        "beginOffset": 6389
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Great Managers as well.",
+        "beginOffset": 6446
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Looking to use what I've leavened here and use it in the world.",
+        "beginOffset": 6470
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "They treat you like family.",
+        "beginOffset": 6534
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Learned different systems.",
+        "beginOffset": 6562
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The most enjoyable part of the job were working with different people.",
+        "beginOffset": 6589
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Management wasn't there, since everyone were busy.",
+        "beginOffset": 6660
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Management doesn't spend as much time with you as you would like.",
+        "beginOffset": 6711
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Culture is great, smart people.",
+        "beginOffset": 6777
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "A bit chaotic like a startup but in transition.Good benefits.Competitive salaries.Since the company stock is not doing so well there are a lot of  older employees who are discouraged.",
+        "beginOffset": 6809
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Benefits are excellent.Job security is not good.Review process severely lacking - very hard to get promotion and not allowed to move to a higher position in a different team.",
+        "beginOffset": 6993
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Typical day of work consists of working on your task list.I learned a lot more about computer systems, social media, and advertising.Management was great and easy to speak to and approachable.Co workers are great and helpful.Hardest thing is my commute.Most enjoyable is the culture.",
+        "beginOffset": 7168
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Being in the heart of the city, almost accessible to anything that you desire.",
+        "beginOffset": 7452
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Working at Twitter is a great place to be at.",
+        "beginOffset": 7531
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Free food, events, and other perks.",
+        "beginOffset": 7577
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "It makes it easier to get the job done.",
+        "beginOffset": 7613
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Twitter can be a fun place to work, but it is a very cliquey.",
+        "beginOffset": 7653
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "It takes forever to be promoted and the salaries for the same exact job vary immensely.",
+        "beginOffset": 7715
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Tons of wasted time sitting in meetings.",
+        "beginOffset": 7803
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Terrific place to work with great food, and positive culture.",
+        "beginOffset": 7844
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Location is perfect and people are very nice.",
+        "beginOffset": 7907
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I would recommend this company to anyone.",
+        "beginOffset": 7954
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Fun place to work but alot of people are leaving.",
+        "beginOffset": 7996
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Great food, great people.",
+        "beginOffset": 8046
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Great projects.",
+        "beginOffset": 8072
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Im not sure about promoting people and the engineers are very nice.",
+        "beginOffset": 8088
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "good training.",
+        "beginOffset": 8157
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I absolutely love working for Twitter.",
+        "beginOffset": 8172
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It is an open minded tech culture that allows you to be who you are as long as you do the work given to you.",
+        "beginOffset": 8211
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Twitter invites celebrities and politicians to the site which is very motivating to come to work.",
+        "beginOffset": 8320
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Every Thursday the whole company has a meeting to discuss the future of Twitter or upcoming events.",
+        "beginOffset": 8418
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Most importantly the best thing about working for Twitter is all the free buffet of food.",
+        "beginOffset": 8518
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Great work environment with supportive management.",
+        "beginOffset": 8608
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Company wants employees to succeed and build a career.",
+        "beginOffset": 8659
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "As the compnay grows the amount of processes and red tape also grew, but that is expected with a company of this size.",
+        "beginOffset": 8714
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The best part about working at Twitter was the people and food.",
+        "beginOffset": 8833
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Working on site for Twitter INC, is an amazing experience with all the  resources of the state of the art facility.",
+        "beginOffset": 8897
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The people you get to encounter and work with everyday is amazing.",
+        "beginOffset": 9013
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Also its a great place to learn and grow your skills in whatever department your work in.",
+        "beginOffset": 9080
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I landed this Job via contract I'm still currently employed here as a third party employee not full term.",
+        "beginOffset": 9170
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The management for the company I'm contracted though is great and i really have no complaints thus far.",
+        "beginOffset": 9276
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Great work environment with supportive management.",
+        "beginOffset": 9380
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Company wants employees to succeed and build a career.",
+        "beginOffset": 9431
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "As the compnay grows the amount of processes and red tape also grew, but that is expected with a company of this size.",
+        "beginOffset": 9486
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The best part about working at Twitter was the people and food.",
+        "beginOffset": 9605
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Twitter was a good place to learn.",
+        "beginOffset": 9669
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I liked my co-workers.",
+        "beginOffset": 9704
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "One of the best teams I have had.I did not like how much politics there were between directors and many manager.",
+        "beginOffset": 9727
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It was the worst place for this I have ever worked.",
+        "beginOffset": 9840
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Awesome smart coworkers - driven, passionate and knowledgeableGood benefits - phone, fitness, 401k, discounted hotels etc.Low insurance premiumsFree food - Breakfast and Lunch.Lot of mini-kitchens with healthy snacks, drinks and Beer and wine.Encouragement to innovate and do things right.",
+        "beginOffset": 9892
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Lot of hackweeks, parties and celebrations Twitter is a fun and innovating company to work at.",
+        "beginOffset": 10182
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The people are smart and always looking to help one another.",
+        "beginOffset": 10277
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Each division of the company looks to help others and it moves at a very fast pace.",
+        "beginOffset": 10338
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "This is a great organization making a large impact around the globe.",
+        "beginOffset": 10422
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Management needs to take cues from individual contributors to help them in career growth.",
+        "beginOffset": 10491
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Often times, the loudest and most social IC's get priority over employees who quantifiably do an incredible job.",
+        "beginOffset": 10581
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Productive and fun workplace with ping pong table and unlimited snacks.",
+        "beginOffset": 10694
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "In this position, I became extremely detail-oriented and learned to liase with a number of teams - from legal, to finance, to sales and ad ops.",
+        "beginOffset": 10767
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The hardest part of the job is that I am pretty much always on call, as there can be campaigns that need to go live after hours that I am required to approve.",
+        "beginOffset": 10912
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I would go back there anytime.",
+        "beginOffset": 11071
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Co workers are great, very qualified.",
+        "beginOffset": 11102
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "There are a ton of perks and free things.",
+        "beginOffset": 11140
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I loved the role, it was very cool to meet fortune 500 companies Great team environment, where collaboration and being a part of the bigger picture was ingrained into the culture.",
+        "beginOffset": 11182
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I highly recommend being a part of the organization.",
+        "beginOffset": 11362
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "A typical day at work will included meetings related to your deadline, continuation on improvements, deadlines, errors and future roll out of the Company's direction.",
+        "beginOffset": 11415
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I learned from my peers and management is a deadline is a deadline and there's no exemptions.",
+        "beginOffset": 11582
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Continue to scale and meet demanding deadlines.",
+        "beginOffset": 11676
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "The hardest part of my job is that it's demanding and not enough resources to scale with the growth of the company.",
+        "beginOffset": 11724
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "You really need to know how to manage your time and be very effective, proactive and efficient in order to successful.",
+        "beginOffset": 11840
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I enjoyed being around driven peers and how seasoned everyone was.",
+        "beginOffset": 11959
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "The calibration and the quality of work that was produced.",
+        "beginOffset": 12026
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Awesome place to work.",
+        "beginOffset": 12085
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Has a phenomenal company culture centered around a work hard-play hard environment.",
+        "beginOffset": 12108
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It's a fun place to work at.",
+        "beginOffset": 12192
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "If you are working in Android or iOS most of the time you will be blocked by review comments of Seniors, if you are lucky and your seniors are approachable then good, otherwise you end up sending multiple patches to resolve reviews, and its stressful and unnecessary rework.I think twitter need to work on building collaborative environment.",
+        "beginOffset": 12221
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "But managment was poor and it was difficult being a contractor there.",
+        "beginOffset": 12563
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Awesome smart coworkers - driven, passionate and knowledgeableGood benefits - phone, fitness, 401k, discounted hotels etc.Low insurance premiumsFree food - Breakfast and Lunch.Lot of mini-kitchens with healthy snacks, drinks and Beer and wine.Encouragement to innovate and do things right.",
+        "beginOffset": 12633
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Lot of hackweeks, parties and celebrations great application, great way to stay in touch on the latest developing news and thoughts from those you follow - real time sharing of ideas i highly recommend using.",
+        "beginOffset": 12923
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Twitter was by far the best company I have ever worked for!",
+        "beginOffset": 13132
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "From the people to the culture within the company, and having the ability to change the social space - it was a remarkable experience!",
+        "beginOffset": 13192
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The culture at Twitter is very competitive and cut-throat.",
+        "beginOffset": 13327
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I loved everyone I met, but I'd never met so many unhappy and stressed out people in my life.",
+        "beginOffset": 13386
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I think the CEO doesn't care about his users or the people who work at Twitter.",
+        "beginOffset": 13480
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Everyone I know who left is very happy about it.",
+        "beginOffset": 13560
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Intense political maneuvering, not a meritocracy at all, hard work undervalued, upper management and HR eschew supposed company values of transparency and honesty, lack of transparency results in lack of candid conversations, no room for critical thinking or constructive feedback The best part of working at this company was the perks and also working with a reliable team who are determined to get the job done.",
+        "beginOffset": 13609
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I also enjoyed the free meals that were provided and snacks and coffee.",
+        "beginOffset": 14023
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Most of the staff at different departments are friendly and communicative.",
+        "beginOffset": 14095
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The whole flooring design was spacious and well cleaned.",
+        "beginOffset": 14170
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Great product and team but leadership struggled to define what twitter was while I was there.",
+        "beginOffset": 14227
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "As such, the company wasn't as productive as it could be and it often felt like the consumer and business orgs weren't aligned.",
+        "beginOffset": 14321
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Twitter has been able to maintain their start-up culture and perks, and did a great job promoting health and wellness with their employees.",
+        "beginOffset": 14449
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Their on-site gym was a great facility that got people interacting outside their respective teams.",
+        "beginOffset": 14589
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "HR were very selective with their contracting with coaches who would manage and run the fitness program, but the engagement was always positive.",
+        "beginOffset": 14688
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Overall, great workplace for both employees and contract workers.",
+        "beginOffset": 14833
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "- Company culture is very open and supportive - My manager was very supportive and willing to teach - Breakfast, lunch and dinner provided with many micro kitchens Twitter was a great place to hone my IT skills.",
+        "beginOffset": 14899
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It provided a great working environment for the most part and gave me my first taste of working in Enterprise Tech.",
+        "beginOffset": 15111
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "With the high level of turnover, middle management spent more time trying to fight for status and swell their personal kingdoms, than they did fixing the product issues.A culture of millennials.",
+        "beginOffset": 15227
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Attrition was extremely high.",
+        "beginOffset": 15422
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Nice place to work.",
+        "beginOffset": 15452
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "overall, good culture.",
+        "beginOffset": 15472
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "co-workers are easy to work with and the management is easy to reach.",
+        "beginOffset": 15495
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "overall it is a good place to work.",
+        "beginOffset": 15567
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It was a pretty laid back environment with great advancement opportunities.",
+        "beginOffset": 15603
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The workplace culture was very different than your traditional work place.",
+        "beginOffset": 15679
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Twitter is a great place for any company or local business to advertise upcoming events and exhibitions in a straightforward, simple manner.",
+        "beginOffset": 15754
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Making a post is fast and easy to plan in advance.",
+        "beginOffset": 15895
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Read this review 5 years from now.",
+        "beginOffset": 15946
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "You'll understand the reason why it is now bankrupt and the company is defaulting failing.",
+        "beginOffset": 15981
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Horrible management unfair work conditions terrible work-life balance I wouldn't recommend this to anyone i really liked working at Twitter.",
+        "beginOffset": 16072
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They have a cafeteria full of free food.",
+        "beginOffset": 16213
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "they are conveniently located in Downtown SF where you can easily access the flagship location.",
+        "beginOffset": 16254
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "A lot of great people here passionate about the platform and its role in the world.",
+        "beginOffset": 16350
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The challenge is how best to convey that to customers.",
+        "beginOffset": 16435
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The Google & Facebook duopoly is real.",
+        "beginOffset": 16491
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Twitter wants to consider themselves in that same realm, but our clients are more likely to categorize us  in the 'nice to have' bucket including Amazon, Pinterest and Snap.",
+        "beginOffset": 16531
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "it does seem to be getting better, albeit slowly but the people responsible for making day to day decisions don't always seem to make informed decisions.",
+        "beginOffset": 16705
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "management seems to be more behind the curve and reactionary than able to plot out strategies and plan properly.",
+        "beginOffset": 16859
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Twitter has great benefits but low pay.",
+        "beginOffset": 16972
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Great people to work with and the culture is unbeatable.",
+        "beginOffset": 17012
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I would stay at Twitter longer but their salaries are not comparable to the marketplace.",
+        "beginOffset": 17069
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Enjoyed my time at Twitter although I was working in a Contract role.My day usually started at 7:30 and ended at 4:30.",
+        "beginOffset": 17158
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "It was a steady busy job which required a lot of contact via e-mail.",
+        "beginOffset": 17277
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "There was a lot of interfacing with the Account Manager, Order Management and Customer Support.",
+        "beginOffset": 17346
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The culture at Twitter was very friendly and the management staff took amazing care of the employees.",
+        "beginOffset": 17442
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It gave the employees a fast paced and challenging environment",
+        "beginOffset": 17544
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ]
+}

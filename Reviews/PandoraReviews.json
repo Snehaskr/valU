@@ -1,0 +1,3769 @@
+{
+  "documentSentiment": {
+    "magnitude": 231.4,
+    "score": 0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Is a very serious work area,you always have to be doing something even when there's no customers at least organizing the charms or trades or cleaning the mirrors.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Personally, I did not have an enjoyable experience working with this company.",
+        "beginOffset": 163
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Our management team was not professional and during the duration of my employment we had extensive managerial changes.",
+        "beginOffset": 241
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "This was my second job and that was clear from the start before I was hired and I had stated I had limited hours.",
+        "beginOffset": 360
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Over time my manager, both previous and new, pressured me for more hours and eventually it led me to me leaving.",
+        "beginOffset": 474
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "A typical day at work would include being notified of my goal for the day, assisting customers with what they need and exploring their options by simply adding on jewelry that would go hand in hand with what they were looking for.",
+        "beginOffset": 587
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "They wrote you up for a call out even if you have a reason and you have to call out 48 hours before you can’t eat in the store you u need to take it out the schedule is done late all the time on Sunday you will get your Monday schedule at night Pandora is a great company, however, they are fairly strict employers.",
+        "beginOffset": 818
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I am provided a flexible schedule and I have made great friends.",
+        "beginOffset": 1136
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The environment has little breaks and stress management is required.",
+        "beginOffset": 1201
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The most enjoyable part of my job was building the different braclets everyday.",
+        "beginOffset": 1270
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I started to gain a steady set of customers because they loved my degins.",
+        "beginOffset": 1350
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I usually expect a mid level jewlery store would be more nasty, but the environment that i have was pretty chill.",
+        "beginOffset": 1424
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I got to expose fashion, style, mindset, and language of many types of people.",
+        "beginOffset": 1538
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "there rude and management is very unprofessional and they only want to you to work on weekends and there permit stays work during the week .",
+        "beginOffset": 1617
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "There unfair to there new employees / seasonal It was a great learning experience and had very helpful development tools for each individual.",
+        "beginOffset": 1758
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "They provide a chance to any whiling to learn and has good implementation, can work well under pressure and can communicate accordingly.",
+        "beginOffset": 1900
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Fantastic company with a superior corporate culture which is undergoing robust growth that provides ample opportunities for personal as well as professional advancement.",
+        "beginOffset": 2037
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Pandora is an international Danish jewelry manufacturer and retailer and it is known for customizable charm bracelets, designer rings, and necklaces.",
+        "beginOffset": 2207
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It became my collection because i like the style and design.",
+        "beginOffset": 2357
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Clean modern work environment.",
+        "beginOffset": 2418
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Team driven store with sales goals and ever changing product keeps the job interesting.",
+        "beginOffset": 2450
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Always a new sales event which helps to motivate employees.",
+        "beginOffset": 2538
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Very flexible with hours.",
+        "beginOffset": 2598
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Pay is not the best but discount accommodates for it.",
+        "beginOffset": 2624
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "You get to set your own sale goal for the day as long as it is higher than company policy which is very manageable.",
+        "beginOffset": 2678
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "it’s claim and collective working at pandora, everyone gets a long with everyone.it’s not hard making the customer happy and helping them make their decisions on what they want or what they want to give as a gift learning to make connections with customers and satisfying their needs.",
+        "beginOffset": 2794
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "each customer has a personal connection with pandora, which requires associates to be accommodating and patience.",
+        "beginOffset": 3083
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "As a sales lead I am responsible for leading the team into make effective sales.",
+        "beginOffset": 3197
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "As well as doing operational tasks such as counting registers, end of day reports, and training modules.",
+        "beginOffset": 3278
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Pandora is a great place to work.",
+        "beginOffset": 3383
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It requires customer interactions including but not limited to: sales, returns, overall customer satisfactions, etc....",
+        "beginOffset": 3417
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "It also requires employees to be independent under little to no supervision as well as proactive when doing general projects.",
+        "beginOffset": 3537
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Pandora has been my favorite place to work at so far.",
+        "beginOffset": 3663
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The company itself is amazing and I have a great interest for it.",
+        "beginOffset": 3717
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "As someone who hasn’t had experience in sales or jewelry, I found myself a jewelry lover and enthusiast.",
+        "beginOffset": 3783
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I loved designing bracelets and collections for the store’s displays and of course our customers.",
+        "beginOffset": 3890
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It is stressful knowing there’s a monthly budget you have to make, while also making sure to beat your previous year’s goals, but to also make sure the whole store makes it’s budget.",
+        "beginOffset": 3990
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "It’s a difficulty to get used to but the feeling of success is very rewarding.",
+        "beginOffset": 4179
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Personal drama and feuds can make it difficult to remain focused, like I would imagine at any job, but without a connected team it’s hard to be as successful.",
+        "beginOffset": 4260
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I would like to continue to strive with the skills I’ve developed in a more civil environment.",
+        "beginOffset": 4421
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Got bonuses for selling the store's products as well as great discounts.",
+        "beginOffset": 4518
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Got thousands of dollars worth of jewelry and was able to buy gifts for my family and friends.",
+        "beginOffset": 4591
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "You really have to compete for hours and must be very serious about selling.",
+        "beginOffset": 4686
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Meaning if you aren’t really great at sales, you will not be worked.",
+        "beginOffset": 4763
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "If you just want a job to get through school, like me, I don’t recommend.",
+        "beginOffset": 4834
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "They only care about your sales, your numbers, and if you’re following the conversation guidelines.",
+        "beginOffset": 4910
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "You are also required to push the Pandora Preferred Card and you will get in trouble if you don’t get people to sign up for one.",
+        "beginOffset": 5012
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Sometimes the hours are great and others I would go weeks without so much as one shift.",
+        "beginOffset": 5143
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "On another note, the women I worked with and for were absolutely amazing!",
+        "beginOffset": 5231
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I actually hated to leave Pandora because my coworkers had become a second family.",
+        "beginOffset": 5305
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Most days are not busy, usually busy during sales or holidays.",
+        "beginOffset": 5388
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The most enjoyable is to able to help a customer find the perfect gift that they are looking for and they are happy with the purchase.",
+        "beginOffset": 5451
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I enjoy working at Pandora.",
+        "beginOffset": 5586
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "It is ideal for a creative person that is social and loves people.",
+        "beginOffset": 5614
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "A lot of fun and amazingly unheard of employee discount.",
+        "beginOffset": 5681
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The people I work with are amazing.",
+        "beginOffset": 5738
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "My manager is very motivating and works with schedule.",
+        "beginOffset": 5774
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Is a very serious work area,you always have to be doing something even when there's no customers at least organizing the charms or trades or cleaning the mirrors.",
+        "beginOffset": 5829
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "had a great work/life balance.",
+        "beginOffset": 5992
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "employees were great co-workers.",
+        "beginOffset": 6023
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "product was fun to sell.",
+        "beginOffset": 6056
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "pay could be better but you get great commission based on your sales for the month.",
+        "beginOffset": 6081
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I highly recommend Pandora to girls looking to grow and gain experience as well as build onto their personal goals.",
+        "beginOffset": 6165
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The benefits are also a pro of being employed here.",
+        "beginOffset": 6281
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Highly competitive environment.",
+        "beginOffset": 6333
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Self-motivated/eager personalities likely to succeed.",
+        "beginOffset": 6365
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Work/life balance typically leads to short tenures with the organization.",
+        "beginOffset": 6419
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Pandora is a very open and welcoming store to work in.",
+        "beginOffset": 6493
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "They are vigilant with the employee reviews and are always happy to be given constructive criticism.",
+        "beginOffset": 6548
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I would be there longer than I should of been,I was doing a job I was not hired for, for example I was doing sales but I was hired for visual.",
+        "beginOffset": 6649
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I also was not properly trained.",
+        "beginOffset": 6792
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Pandora made sure that we had all the knowledge about their products.",
+        "beginOffset": 6825
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I was very sad leaving Pandora, because it was such a wonderful place to work.",
+        "beginOffset": 6895
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The managers were incredible and my coworkers were amazing!",
+        "beginOffset": 6974
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Great perks and benefitsOT/hourly pay option for some departments because of busy/holiday seasonsNot much room for growthManagement inconsistent at times Even though selling jewelry can sometimes be stressful, my time at Pandora was overall really great!",
+        "beginOffset": 7034
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I was taught many valuable lessons not only in sales, but in management and life in general.",
+        "beginOffset": 7289
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "While there is a lot of work, both up front with the customer and behind the scenes, it is a great place to work if you are motivated.",
+        "beginOffset": 7382
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Just a cute little job.",
+        "beginOffset": 7517
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Great for a first job.",
+        "beginOffset": 7541
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Highly recommend to people who are not looking for growth in a company but wants to have a decent side job.",
+        "beginOffset": 7564
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "management need work but besides that everyday at work was so fun.",
+        "beginOffset": 7672
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "all my co workers were great people and I loved to be around them.",
+        "beginOffset": 7739
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "also we would have small competitions like who could sell the most in a day.",
+        "beginOffset": 7806
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "When i first started their it was a very friendly and fun atmosphere.",
+        "beginOffset": 7883
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "We all supported each other and really had fun.",
+        "beginOffset": 7953
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Over the past yrs though, management has gotten really cutthroat, making you work mandatory overtime almost every weekend.",
+        "beginOffset": 8001
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "If you work here, you basically can’t have a life outside of work.",
+        "beginOffset": 8124
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I would say it’s a good job if you’re starting out, but don’t plan to stay long bc you won’t move up anywhere.",
+        "beginOffset": 8193
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Each day that you arrives had to see the goal of that day to know how it could be fulfilled, if the goal of the last day was fulfilled.",
+        "beginOffset": 8312
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "The managers were interested in knowing how they could help you in order to do a better job.",
+        "beginOffset": 8448
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Depending on which location you're in, they're all different.",
+        "beginOffset": 8541
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "This particular location was a little bit nicer than our closer competition in Menlo, but neither stores owners offered any kind of incentive for the sales teams.",
+        "beginOffset": 8603
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "because of this we were constantly going through employees.",
+        "beginOffset": 8766
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "the management in the store were always nice though.",
+        "beginOffset": 8826
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I was recruited by my old manager from Body Central to work at Pandora.",
+        "beginOffset": 8879
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "As employees at pandora you usually start off as a greeter, one who greets the customers while they walk in.",
+        "beginOffset": 8951
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Then you go to be a cashier and then get trained to become a sales associate.",
+        "beginOffset": 9060
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I as  I said was recruited by a old manager so she gave the store manager a good word for me.",
+        "beginOffset": 9138
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "When I got interviewed and tested on my sales thankfully i preformed strong for them to put me as sales right off the bat.",
+        "beginOffset": 9232
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I worked there for 3 years (in two different locations).",
+        "beginOffset": 9355
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I ended up giving my two weeks notice due to me getting married and moving to California.",
+        "beginOffset": 9412
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I loved working there and was so grateful to have streghthen my work ethic thru that company.",
+        "beginOffset": 9502
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "it was actually at Jareds the Galleria of Jewelry in Boynton Beach, I was assigned the pandora section.",
+        "beginOffset": 9596
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "it was great during the holidays, lots of fun to help people make these bracelets for family and friends and they become even more fun when you get to see the bracelets come together.",
+        "beginOffset": 9700
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "workers were nice, break room very small, managers were nasty.",
+        "beginOffset": 9884
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "they let you wear their jewelry to promote sales for the day.",
+        "beginOffset": 9947
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "it was a seasonal job extra cash for the holiday season.",
+        "beginOffset": 10009
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I have been learning a lot about myself when it comes to customer service.",
+        "beginOffset": 10066
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "The environment is quite interesting when it comes to the customers and what they come into the store shopping for.",
+        "beginOffset": 10142
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I hated this job and will never work there ever.",
+        "beginOffset": 10258
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "the company did not care for its employes, i would rather work at claires.",
+        "beginOffset": 10307
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "i suffered greatly and i am donewith this job.",
+        "beginOffset": 10382
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Minimum wage paying job with very small commission bonus.",
+        "beginOffset": 10429
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Slow traffic, so you have a lot of wasted time.",
+        "beginOffset": 10487
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Mindless job, if you can talk you can work here.",
+        "beginOffset": 10535
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I enjoyed working at Pandora Jewelry.",
+        "beginOffset": 10584
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "They are structured and show where you stand daily to see how close you are to making commission.",
+        "beginOffset": 10622
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "How much you make in commission depends on you so not only are you encouraged to work as a team to make numbers, but there is also individual drive to keep selling more and establishing  long term connections with customers.",
+        "beginOffset": 10720
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Management lets you share your ideas in meetings that happen twice a month to help improve the store.",
+        "beginOffset": 10945
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "And the hours are not only flexible (if you are balancing another job or school), but they are also standard shifts with a set closing time.",
+        "beginOffset": 11047
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Coming from food industry, I greatly appreciated the atmosphere.",
+        "beginOffset": 11188
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It's laid back, but challenging enough so day-to-day tasks don't become boring.",
+        "beginOffset": 11253
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I love getting to know the regular customers who come in looking for more charms to add to their bracelets.",
+        "beginOffset": 11333
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I also love the creativity I can get to exhibit in helping customers create new styles.",
+        "beginOffset": 11441
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I also like meeting the travelers from out of town.",
+        "beginOffset": 11529
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "They appreciate being listened to.",
+        "beginOffset": 11581
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "New customers everyday come with new challenges and more chances to test your selling skills.",
+        "beginOffset": 11616
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Management is great overall and each store manager has the opportunity to run the store how they wish.",
+        "beginOffset": 11710
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "This is both good and bad depending on the manager.",
+        "beginOffset": 11813
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Raise opportunities are always there as well as promotional opportunities.",
+        "beginOffset": 11865
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Is a very serious work area,you always have to be doing something even when there's no customers at least organizing the charms or trades or cleaning the mirrors.",
+        "beginOffset": 11940
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I hated working here, they treated me so unfairly because I wasn't a salesperson.",
+        "beginOffset": 12103
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "When I asked to advance they turned me down and my last day they said they didnt need me anymore and they would contact me next season (never happened) Great place i love the selling aspect but i had to leave due to lack of management , they didnt let me chamge my availability so i can take a manager postion at another store When working here, I was not treated with respect by the district manager.",
+        "beginOffset": 12185
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She was very rude to not only me but to all the other sales associates.",
+        "beginOffset": 12587
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She saw us as the bottom because we were “just the associates”.",
+        "beginOffset": 12659
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She consistently would put people down and make them feel bad about themselves.",
+        "beginOffset": 12727
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Pandora as a company is pretty decent.",
+        "beginOffset": 12807
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "You get great discounts on the merchandise and if you love pandora jewelry, you will probably like this job despite the lack of respect.",
+        "beginOffset": 12846
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I wish the store would spend more on the inventory for this store.",
+        "beginOffset": 12983
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I only worked here for six months, due to the district manager being so rude to the associates and for working more hours than agreed to.",
+        "beginOffset": 13050
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Most of the associates quit because of this issue.",
+        "beginOffset": 13188
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "The hardest part of the job is all those long hours on your feet, and being under paid for the amount of work they ask you to do.The atmosphere is uninviting, the customers are usually not treated with respect.",
+        "beginOffset": 13239
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I learned patience from this job.",
+        "beginOffset": 13450
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Everyone complains about being underpaid and over worked.",
+        "beginOffset": 13484
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Huge company growth of which I was part of when privately held then Company went publicly traded and managers were let go.",
+        "beginOffset": 13542
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Lots of turnover due this fact.",
+        "beginOffset": 13665
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Massive layoffs over several years.",
+        "beginOffset": 13697
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "It was nice to be there, but now that I've graduated college, I'm looking to get started in my field.",
+        "beginOffset": 13733
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Only downfall were some of the rude customers that would come in.",
+        "beginOffset": 13835
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "One of the harder companies I worked for.",
+        "beginOffset": 13901
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Rules are a lot more strict and not much room for anything outside of what they want.",
+        "beginOffset": 13943
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Management can be strict as well because they have very clear goals they have to meet and instructions they have to follow.",
+        "beginOffset": 14029
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Not bad working here at all but definitely not as fun and not as much room to discover what methods work for you as an associate.",
+        "beginOffset": 14153
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Pretty much everything is written out as instructions to follow.",
+        "beginOffset": 14283
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Upper management is a mess and there is a lot of nepotism.",
+        "beginOffset": 14348
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Store managers do not know how to run a store nor even know the products in the store.",
+        "beginOffset": 14407
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "The DM is rude and will find a reason to fire anyone she does not like.",
+        "beginOffset": 14494
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Due to people quitting constantly, extra roles are put on to people without proper training nor compensation.",
+        "beginOffset": 14566
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The company is a franchise so there is no HR department and issues are pushed under the rug.",
+        "beginOffset": 14676
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "When conflicts arise there is no confidentiality and private business is aired throughout the company.",
+        "beginOffset": 14769
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Associates, supervisors, and owners are typically great people to work with but the management is so poor it ultimately ends with being burned out quickly and leaving.",
+        "beginOffset": 14872
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "terrible job i work in times square and the management is extremely bad.",
+        "beginOffset": 15040
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "thwy have no benefits being a franchise the managers believe that they are above everyone and treat employees terrible they say extremely bad things to employees and have terrible attitudes Pandora has given me the opportunity to expand my people skills as well as to teach product knowledge which is so important in retail these days.",
+        "beginOffset": 15113
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The workplace culture is that as long as you are giving your best possible care to the customer the rest will fall into place.",
+        "beginOffset": 15450
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "The most enjoyable part of the job is learning about new products on a daily basis and interacting with clients.",
+        "beginOffset": 15580
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "A typical day is working one-on-one with customers.",
+        "beginOffset": 15693
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Making a connection and getting to know what the person on the other side of the counter would like.",
+        "beginOffset": 15745
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Jewelry is a way for people to express themselves and I learned that it is very important to listen to what the customer is saying that way they can feel confidant with their purchase.",
+        "beginOffset": 15846
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Jewelry can also be a way to remember someone so its also important to be respectful to everyone's choices.",
+        "beginOffset": 16031
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Pandora Jewelry is a really good company.",
+        "beginOffset": 16139
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "during my time working for them I learn a lot of visual merchandising, jewelry products and it increments my development dealing with customers.Its a great opportunity to learn and grow as a sales associate.",
+        "beginOffset": 16181
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Pandora is affordable luxury .",
+        "beginOffset": 16389
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I have was able to work with fine jewelry and learn to run a business through mu partnerships with the franchise owners .",
+        "beginOffset": 16420
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "It’s amazing to have  seen a brand grow extensively internationally.",
+        "beginOffset": 16542
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I enjoy working there.",
+        "beginOffset": 16613
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "It’s part time only and hours are based on performance.",
+        "beginOffset": 16636
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The people I work with are great.",
+        "beginOffset": 16694
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Everyone does there best to work as a team to meet goals but in the end, you still have to make sure you’re looking out for you!",
+        "beginOffset": 16728
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Love making up different looks for bracelets and rings.",
+        "beginOffset": 16859
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Probable the best part What to say the job was ok the ppl were ok every one has a different experience at each job it was the not the best but not the worst it's nice location this was a good job but the jobs was not easy to do and the procedures change every few months and it is all about selling more expensive pieces of jewelry not how it used to be.",
+        "beginOffset": 16915
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "the jewelry represented a special moment in the peoples lives not just an expensive piece of jewelry.",
+        "beginOffset": 17270
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Super stressful place to work when you have a management team that lack on communication, and professionalism.",
+        "beginOffset": 17372
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The store didn't even have an HR department.",
+        "beginOffset": 17483
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Enjoyed the people and the customers it was a good first job learned a lot about the corporate world which is a good experience poor managemt but I still enjoyed it I love working here.",
+        "beginOffset": 17528
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "They help me out when I need it for school and knowing that I do have a life outside of work.",
+        "beginOffset": 17714
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "However some small problems with upper management but other than that this is a fun relaxed environment with awesome co workers If you like retail, this is a good place to work.",
+        "beginOffset": 17808
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The hours are flexible and workers are as well.",
+        "beginOffset": 17986
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "There were also great discounts for employees.",
+        "beginOffset": 18034
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The jewelry was also beautiful.",
+        "beginOffset": 18081
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Is a very serious work area,you always have to be doing something even when there's no customers at least organizing the charms or trades or cleaning the mirrors.",
+        "beginOffset": 18113
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If you’re a people person this is the job for you.",
+        "beginOffset": 18276
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Not only do you work closely with customers but you also get to know your coworkers really well.",
+        "beginOffset": 18329
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Good pay, driven team, and if you work hard, it’s very easy to move up in the ranks.",
+        "beginOffset": 18426
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The managers are great about working with your schedule and it’s a fun place!",
+        "beginOffset": 18513
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Love working here!",
+        "beginOffset": 18593
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Pandora at Santa Rosa plaza has the best coworkers ever!",
+        "beginOffset": 18612
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It’s a big family, we all respect and help each other.",
+        "beginOffset": 18669
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The environment is great starting with the best manager ever.",
+        "beginOffset": 18726
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is so nice, understanding and helpful.",
+        "beginOffset": 18788
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I improved my skills because of her, she is always helping and giving us advice to improve our job.",
+        "beginOffset": 18831
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Coworkers are nice and helpful.",
+        "beginOffset": 18931
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I would work with this team forever!",
+        "beginOffset": 18963
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "They teach you so well and do their best to give the best service to costumers.",
+        "beginOffset": 19000
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I’ve work in retail for almost 6 years and this is the first time I loved my job.",
+        "beginOffset": 19080
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The company is also very good and organized.",
+        "beginOffset": 19164
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Great company values.",
+        "beginOffset": 19209
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Excellent environment to work in and great opportunity for growth.",
+        "beginOffset": 19231
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Very family orientated which made work and home balance great.",
+        "beginOffset": 19298
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Excellent company to learn about customer service, how to work under pressure, problem solving and analytical skills.",
+        "beginOffset": 19361
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The only con was that the management was too strict.",
+        "beginOffset": 19479
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I was lucky to have a college job where I genuinely enjoyed spending time with the friends I had made there.",
+        "beginOffset": 19532
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "In season it was very quick paced and would slow down during the summer when all the snow birds went home, but then we usually spent the time deep cleaning every inch of the store and whatnot.",
+        "beginOffset": 19641
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "IT leaders are horrible, and care nothing about employees.",
+        "beginOffset": 19834
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Many layoffs, and money management is horrible.",
+        "beginOffset": 19893
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The company suffers from executives flying around the world business class, when not needed.",
+        "beginOffset": 19941
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Also, any leader there for more than 5 years can do no wrong, even when they have personal bias towards employees.",
+        "beginOffset": 20034
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Phillip Kennedy in particular.",
+        "beginOffset": 20149
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Being at Pandora taught me a lot about dealing with various types of people on a more personal level.",
+        "beginOffset": 20180
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "When interacting with customers, it was the associate duty to make sure that they immediately felt comfortable as soon as they entered the store, and with that, you have different ones may want to speak or may not want to speak, depending on their mood prior to entering the store, the way they view employees, or any other extra factor.",
+        "beginOffset": 20282
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "It was a very personal, yet fun environment because as employees, we developed our own relationships with each other, which made work more interesting.",
+        "beginOffset": 20620
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Of course it's a jewelry store, so the most enjoyable part about it was experiencing all types of styles of jewelry and seeing the customers' reactions to all of the various ways to customize it to their liking.",
+        "beginOffset": 20772
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "My manager and assistant manager was absolutely the best management duo I've ever had, and I wish that any other job/career I have, that those present supervisors/managers are as even HALF as exceptional as mhy prior.",
+        "beginOffset": 20984
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Place is very very competitive.",
+        "beginOffset": 21202
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Most of the time you have to fight for sales.",
+        "beginOffset": 21234
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "There is a very high goal that you have to reach sometimes they work together as a team but it depends on the store.",
+        "beginOffset": 21280
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I have chased my dream for over 20 years, there are some days I feel like I still am.",
+        "beginOffset": 21397
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "However while working for Pandora I was allowed to grow, to see what I was capable of.",
+        "beginOffset": 21483
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Pandora was an amazing job!",
+        "beginOffset": 21570
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The product, clients and and sales team were all so great!",
+        "beginOffset": 21598
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They take pride in product knowledge and the newest trends and really care how their customers relate to the products!",
+        "beginOffset": 21657
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Profitable company is a challenging retail environment.",
+        "beginOffset": 21776
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Culture has been shifting from small company to global corporation for the past few years.",
+        "beginOffset": 21833
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Continuing changes among global and executive management.",
+        "beginOffset": 21925
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I worked here throughout college and really enjoyed it.",
+        "beginOffset": 21983
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I came from the restaurant industry so this felt a little more like and adult job or a job I could grow with.",
+        "beginOffset": 22039
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "It was a great family away from mine back home.",
+        "beginOffset": 22149
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Lots of favouritism and horrible customer service.",
+        "beginOffset": 22197
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "No opportunities to grow.",
+        "beginOffset": 22248
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Employees will disrespect ANYONE to make their sales.",
+        "beginOffset": 22274
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Management is rude and disrespectful as well.",
+        "beginOffset": 22328
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "As a member of management, a typical day at Pandora involves tracking and setting metric goals to drive business and reach sales goals.",
+        "beginOffset": 22374
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Depending on the shift scheduled, the role requires leading and participating in customer service, opening the store, balancing funds, recording and analyzing data, training staff, enforcing policies and procedures, managing inventory, reacting to customer concerns, troubleshooting, maintaining visual standards, and cleaning and closing the store.",
+        "beginOffset": 22510
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I've learned a lot about jewelry and its impact in the business market, personalized client shopping experiences, and cultivating knowledge for customers and staff.",
+        "beginOffset": 22860
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Workplace culture is very friendly and fun, but prioritizes professionalism at all times.",
+        "beginOffset": 23025
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The hardest part of the job is finding enough time in between job duties to learn and coach new behaviors and policies, but that is only because of a recent retooling of the standards in order to adapt to a changing market and establish a unified brand.",
+        "beginOffset": 23115
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "A typical day at Pandora would be getting yelled at about you sales (even if your one of the top sellers).",
+        "beginOffset": 23369
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Managers leaving for a 3 hour break to go get their hair done and not giving you a higher position because your fully qualified but 'too young'.",
+        "beginOffset": 23476
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I love working for Pandora , it’s a growing company for sure it’s very high speed when we have promotion or if we’re during the season.",
+        "beginOffset": 23621
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "it’s very flexible if your student they do give us the hours that’s need.",
+        "beginOffset": 23764
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "again it’s a growing company.",
+        "beginOffset": 23842
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "The typical work would be we are busy attending customers pretty smooth.",
+        "beginOffset": 23874
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "To be more multicast and alert for customers.",
+        "beginOffset": 23947
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Just watching what's going  and how we treat customers.",
+        "beginOffset": 23993
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I don't think we have a hard part of a job.",
+        "beginOffset": 24049
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "When it's time to leave work to go rest and regroup for the next day.",
+        "beginOffset": 24093
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Started as sales associate back in 2016, have grown to assistant manager and about to manage my own store and I have not even hit the age 21 yet.",
+        "beginOffset": 24163
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Management is great, DM is extremely supportive and our team is a family.",
+        "beginOffset": 24309
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I worked for pandora for almost 8 months I was doing good and favored at the beginning.",
+        "beginOffset": 24383
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I would work very hard and even worked on my off days.",
+        "beginOffset": 24471
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I was basically cheated out of a position and treated very rudely after.",
+        "beginOffset": 24526
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I loved working at Pandora, but the only problem was I wasn't making nearly enough money for the bills I had to pay.",
+        "beginOffset": 24599
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I worked so hard with many long hours to not get any raise or even begin to talk about moving up in the company.",
+        "beginOffset": 24716
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Seeing people move us was VERY RARE.",
+        "beginOffset": 24829
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "But it is fun getting to create with all of the different products and make something unique to the customer every time.",
+        "beginOffset": 24866
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Is a very serious work area,you always have to be doing something even when there's no customers at least organizing the charms or trades or cleaning the mirrors.",
+        "beginOffset": 24987
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Enjoyed working with customers, and making sales.Hours were great.",
+        "beginOffset": 25150
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Management was nice.",
+        "beginOffset": 25218
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Coworkers were nice.Jewelry sold easily.",
+        "beginOffset": 25240
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Store very nice.",
+        "beginOffset": 25282
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Great culture with amazing perks and lots of face time with all different departments.",
+        "beginOffset": 25299
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Overall very collaborative work environment with openminded employees.",
+        "beginOffset": 25386
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "*Lay new people off approximately every six months despite heavy workload*Remaining people were just expected to pick up the work from laid off colleagues*No support from management*When hired - HR makes it clear that overtime (even though not compensated) will be 'expected because PANDORA is just that kind of company.'",
+        "beginOffset": 25457
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It is not an 'occasional' type of thing.",
+        "beginOffset": 25779
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "*They do not promote from within.*no workplace balance.",
+        "beginOffset": 25820
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "*Holidays are basically nonexistent.",
+        "beginOffset": 25876
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "If there is work to be done, you'll still be expected to work over the holiday*Global office is non responsive despite the fact that they require being a part of the approval process for everything.*incredibly short staffed due to previous layoffs and there is essentially a mass exodus.",
+        "beginOffset": 25913
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They believe that the benefits outweigh all of the cons.They offer tickets to a suite at Capital One Arena and M&T Bank Stadium but it's incredibly hard to get them as the executives frequently take the tickets.",
+        "beginOffset": 26201
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "There is a gym in the building but it's very difficult to use as it's very small and gets overcrowdedWould not recommend anyone work here.",
+        "beginOffset": 26413
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "very friendly environment, typical day includes lots of inventory and sales.",
+        "beginOffset": 26552
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Hardest part of the job would be putting away inventory, you have to put it away one by one.",
+        "beginOffset": 26629
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Also the checkout process is a little hard at first but fast and easy once you get the hang of it.",
+        "beginOffset": 26722
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "During my time here I have made relationships that will stay with me forever.",
+        "beginOffset": 26821
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I have learned a lot from my managers and co-workers that will help me succeed in the future as well.",
+        "beginOffset": 26899
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "When I first started working here I was nervous that I was going to be shy and struggle when it came to the selling aspect but with reassurance, I was able to quickly get the hang of it and now love the job and the people I work with.",
+        "beginOffset": 27001
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "This authorized retailer never gave us the chance to grow as associates or in the company.",
+        "beginOffset": 27236
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "They chose to hire from outside and promote from outside.",
+        "beginOffset": 27327
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Awful pay and awful at helping people when they need it.",
+        "beginOffset": 27385
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Friendly staff and great learning environment but owners abuse of unnecessary rules.",
+        "beginOffset": 27442
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "No sitting through a double shift while standing in flats and you must constantly without stop be doing something for the store.",
+        "beginOffset": 27527
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Doesn’t sound like to much but it gets to you.",
+        "beginOffset": 27656
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "It’s little rules like that that pandora deserves 4 stars Great place.Great environment Young people Great pay for entering Good managementGreat part time hoursEasy location Fast paced Learning Experience It was about tea building and helping each other succeed .",
+        "beginOffset": 27705
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Sales was very important to the whole store, we all had to do our part so the store could be successful.",
+        "beginOffset": 27971
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "It was a good .",
+        "beginOffset": 28076
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I was a college student who stated availability and was not hired accordingly.",
+        "beginOffset": 28092
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The manager did things beneficial to herself.",
+        "beginOffset": 28172
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Some employees were accommodated but not all.",
+        "beginOffset": 28218
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I really did enjoy working for Pandora, and I love the quality of the jewelry.",
+        "beginOffset": 28264
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "However each business is different as Pandora is a franchise and each business is run slightly differently in regards to compensation.",
+        "beginOffset": 28343
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Sales Lead/Assistant Manager - Responsible for opening/closing the store, coaching sales associates, selling products, assisting with scheduling, and in charge of marketing.promo changes Pandora was nice but I terminated my employment due to a personal situation I was going through.",
+        "beginOffset": 28478
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "my lack of explanation about this led to a huge misunderstanding/miscommunication between the main manager and i.",
+        "beginOffset": 28762
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "The location that I work at has a great manager who commitment for all employees to be at their best is amazing!!",
+        "beginOffset": 28876
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It has been more organized and communication has made a difference in how the store is run.",
+        "beginOffset": 28990
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I can not speak for other Pandora locations, however I enjoy working at Pandora of GSP.",
+        "beginOffset": 29082
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Excellent job for anyone looking for a part time job to supplement their income.",
+        "beginOffset": 29170
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They are very understanding and also value their employees very much.",
+        "beginOffset": 29251
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I was with Pandora for two years as a sales lead.",
+        "beginOffset": 29321
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Working there was great until new management was brought in.",
+        "beginOffset": 29371
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "We were originally a franchise, but then switched to corporate.",
+        "beginOffset": 29432
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I was paid very little for what my position asked of me.",
+        "beginOffset": 29496
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Our incentive programs diminished as soon as our store turned to corporate.",
+        "beginOffset": 29553
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Just like any other retail job, the hours were long and late.",
+        "beginOffset": 29629
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I would not recommend this job to anyone who is in school or has other things to attend to.",
+        "beginOffset": 29691
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "They want you available at all times, not worth what you are paid.",
+        "beginOffset": 29783
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Management is poor.",
+        "beginOffset": 29850
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "There is favoritism and people get away with being lazy.",
+        "beginOffset": 29870
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The pay is low and you don’t get many hours.",
+        "beginOffset": 29927
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The discount is good but that is basically it.",
+        "beginOffset": 29974
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Pandora was probably one of my favorite places of employment while in college.",
+        "beginOffset": 30021
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I have worked retail for several years before working with Pandora, but it was the first retail job I had involving jewelry.",
+        "beginOffset": 30100
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Not only did I obtain a lot of knowledge and skills that I can apply in other areas of employment but I gained many friendships through associates and customers.",
+        "beginOffset": 30225
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The jewelry was not like any other product I've worn.",
+        "beginOffset": 30387
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "It tells a story, whatever story it is you want to tell while also making women feel confident and elegant.",
+        "beginOffset": 30441
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I mostly enjoyed listening to the reasons why customers were shopping and help pick out pieces of jewelry that represents what they were wanting to display.",
+        "beginOffset": 30549
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Pandora is great for a high schooler working their first job.",
+        "beginOffset": 30706
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "The training is great, but there is are no benefits (unless you're full time; which is only assistant mangers and mangers).",
+        "beginOffset": 30768
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "It's also very competitive and there is a lot of favoritism.",
+        "beginOffset": 30892
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "A typical day at work?Enjoyable because of the customers.What I learned?A different perceptive on sales with jewelry.",
+        "beginOffset": 30953
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Management?No comment.Workplace Culture?Much life between the sales associates.",
+        "beginOffset": 31072
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Hardest Part?Black Friday.",
+        "beginOffset": 31152
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Enjoyable?Getting paid.",
+        "beginOffset": 31179
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Is a very serious work area,you always have to be doing something even when there's no customers at least organizing the charms or trades or cleaning the mirrors.",
+        "beginOffset": 31203
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The people within the company itself are quite pleasant to deal with.",
+        "beginOffset": 31366
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "That being said, there is very little room for advancement throughout the corporation and pay raises come once a year and are minimal at best.Benefits are only for full-time employees but the benefits are excellent.",
+        "beginOffset": 31436
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Full time is NOT consider 40 hours, but 32+ which - if you are hired in under the impression of 40 - is quite a pay decrease.",
+        "beginOffset": 31652
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Those eight hours add up.",
+        "beginOffset": 31778
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Working here has been very challenging.",
+        "beginOffset": 31804
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The pay and amount of hours given a week is not enough for the cost of living.",
+        "beginOffset": 31844
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "While working here little opportunity is given for growth.",
+        "beginOffset": 31923
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Pandora is an amazing place if you are willing to work hard in sales, interact and provide exceptional customer service learn the brand and grow.",
+        "beginOffset": 31982
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "If you are up for a challenge this is the plaplaces for you.",
+        "beginOffset": 32128
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "A typical day entailed restocking charms checking inventory; it also entailed opening each register to make sure the money was all accounted for.",
+        "beginOffset": 32189
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "We'd also set a daily goal for ourselves with the manger to meet.",
+        "beginOffset": 32335
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Working with the guest to build a life story bracelet created an amazing experience not only for the customer but myself as well.Adding to a customer's existing bracelet as they had life events provided much joy.",
+        "beginOffset": 32401
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The only good thing about working in Pandora was is the discount other than that no hours, long days standing on feet, working with incompetent managers and employees. ...",
+        "beginOffset": 32614
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Up by 2:00 am to catch a flight or a train, my assigned accounts were in different states. ...",
+        "beginOffset": 32785
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "There's no job security ...There's good management structure...not knowing what's next....working with my assigned account The people are really what got me through, it can be stressful at times and tiring being on your feet all day, but very rewarding to see a customers happy face when they leave with the jewelry you recommended.",
+        "beginOffset": 32879
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "There are many ways to prove yourself as a competent sales person at this job.",
+        "beginOffset": 33212
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "The management staff is friendly and clear and concise about dress code, job requirements, etc.Sales are difficult during off times but during promotions and holidays; this product is an easy sell.The best part of the job is how technologically advanced the company is with processing sales and easing the stress of shopping for customers.",
+        "beginOffset": 33291
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I learned that at least the location I worked for gave you a half an hour plus a 15 min break if you work over 8 hours versus a 45 and a 15.",
+        "beginOffset": 33631
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Besides that company is chill, its not stressful, and its actually pretty fun Always opportunities to learn and grow, staff is young and fun to be around and genuinely become great friends.",
+        "beginOffset": 33772
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Keep up with the brand and items and you should be fine.",
+        "beginOffset": 33962
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "The store manager makes this store environment similar to the worst thing you can imagine.",
+        "beginOffset": 34019
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "The store manager has and does constantly bully her employees.",
+        "beginOffset": 34110
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She tells us we are not pretty enough to sell.",
+        "beginOffset": 34173
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She tells us we are horrible retail employees.",
+        "beginOffset": 34220
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She does not respect any of us.",
+        "beginOffset": 34267
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "It was a decent working environment with good pay.",
+        "beginOffset": 34299
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Scheduling was not flexible for an hourly job, and varied too much.",
+        "beginOffset": 34350
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Otherwise, management and job itself was great.",
+        "beginOffset": 34418
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Good people in the store to work with, bad upper management.",
+        "beginOffset": 34466
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "The rules and guidelines are too much to follow for a part time temporary mall job.",
+        "beginOffset": 34527
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Pay is unfair throughout employees.",
+        "beginOffset": 34611
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "We had a wonderful managers who was scared away by the company and we are now run by rude, inconsiderate and under educated managers from other stores Working at pandora was honestly a roller coaster, the job had its highs and lows.",
+        "beginOffset": 34647
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "One positive thing I can say is you get good customer service and retail experience there.",
+        "beginOffset": 34880
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "The working environment at Pandora is fast-paced, fun and can be sometimes stressful depending on the time of the year.",
+        "beginOffset": 34971
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The work day includes attending to clients along with cleaning, putting away and creating jewelry displays.",
+        "beginOffset": 35091
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Although you receive a great discount it is a rather stressful environment with low pay.",
+        "beginOffset": 35199
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Be sure to have thick skin.",
+        "beginOffset": 35288
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Also, its short staffed, huge turn over!",
+        "beginOffset": 35316
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Wonderful store manager though!",
+        "beginOffset": 35357
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I learned how to work as a team, and how to handle a sales-driven job.",
+        "beginOffset": 35389
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Was able to manage how to work in high paced, stressful situations where independency is key.",
+        "beginOffset": 35460
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Depending on the day, Pandora can be very slow or fast-paced.",
+        "beginOffset": 35554
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Involves a lot of customer service.",
+        "beginOffset": 35616
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Pay is low and hours are only as flexible as your availability provides.",
+        "beginOffset": 35652
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Definitely can help you with people skills if that's something you're looking to improve.",
+        "beginOffset": 35725
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ]
+}

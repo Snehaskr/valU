@@ -1,0 +1,189 @@
+{
+  "documentSentiment": {
+    "magnitude": 10.9,
+    "score": 0.5
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I was helping with reviewing the data.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "The workplace culture is great.",
+        "beginOffset": 39
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Each voice matters.",
+        "beginOffset": 71
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I feel blessed to have an opportunity to be a part of Instagram/Facebook.",
+        "beginOffset": 91
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It is an independent place to work and I have been responsible for finding opportunities for myself.",
+        "beginOffset": 165
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "There is no typical day at work.",
+        "beginOffset": 266
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The most enjoyable part of this work are the opportunities it brings.",
+        "beginOffset": 299
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "A typical work day is very stress free and I learned how to self promote ,time management, organization and responsibility .",
+        "beginOffset": 369
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "The workplace culture differentuates from personal to person but cultural experience matched up with current society in positive and negative ways .The hardest part of the job is comptition but it does come with every job and can make you set you goals even higher at the end of the day.And my favorite part of the job is working for something your proud of because it makes you that much more passionate and more invested in your job I self employed myself with Instagram.",
+        "beginOffset": 494
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I take photos for companies and send them.",
+        "beginOffset": 968
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "and Its a lot of fun because i enjoy taking photographs of my daughter.",
+        "beginOffset": 1011
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "This is a great company that demonstrates a great work ethic and a fresh perspective on what that future of social media is.",
+        "beginOffset": 1083
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Although personally I may not have a lot of interest in social media, I can admire how the company has shaped the future of the field and manages to still be relevant in such a competitive, and over saturated market.",
+        "beginOffset": 1208
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Instagram is a great tool to get to know people.",
+        "beginOffset": 1425
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It was a place of all new and upcoming technology in todays world.",
+        "beginOffset": 1474
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "This was a look into the future of the upcoming generations.",
+        "beginOffset": 1541
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I love marketing in Instagram because it shows you a lot about how many people and followers you can really reach out to through social media.",
+        "beginOffset": 1602
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "It's amazing.",
+        "beginOffset": 1745
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ]
+}
