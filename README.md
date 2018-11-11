@@ -10,7 +10,7 @@ Using data-sets saved in the form of JSON files, we performed syntactical and se
 
 This information was all consequently passed along in csv format and was used to create a SQLite database.
 
-Sources:
+Top Sources:
   1. https://cloud.google.com/natural-language/docs/analyzing-sentiment
   2. Google Cloud Shell
   3. https://cloud.google.com/sdk/gcloud/reference/alpha/cloud-shell/scp
