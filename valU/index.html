@@ -2,7 +2,17 @@
 <html lang="en">
 <head>
 
-	<title>ValU</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="js/jquery.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="https://d3js.org/d3.v4.0.0-alpha.40.min.js"></script>
+  <script src="js/smoothscroll.js"></script>
+  <script src="js/custom.js"></script>
+
+  <title>valU</title>
 	<!--
 
     Template 2106 Soft Landing
@@ -17,6 +27,7 @@
 <meta name="team" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/owl.carousel.css">
 <link rel="stylesheet" href="css/owl.theme.default.min.css">
@@ -24,6 +35,7 @@
 
 <!-- MAIN CSS -->
 <link rel="stylesheet" href="css/tooplate-style.css">
+
 
 </head>
 <body>
@@ -50,7 +62,8 @@
    </button>
 
    <!-- lOGO TEXT HERE -->
-   <a href="index.html" class="navbar-brand">ValU</a>
+<!--    <a href="index.html" class="navbar-brand">ValU</a> -->
+<a href="index.html" class="navbar-brand"><img src="images/logo.png"  alt="Andrew Orange"></a>
  </div>
 
  <!-- MENU LINKS -->
@@ -103,15 +116,16 @@
 
                    <div class="col-md-6 col-sm-6">
                     <ul class="nav nav-tabs" role="tablist">
-                     <li class="active"><a href="#tab01" aria-controls="tab01" role="tab" data-toggle="tab">Search by Attribute</a></li>
+                     <!-- <li class="active"><a href="#tab01" aria-controls="tab01" role="tab" data-toggle="tab">Search by Attribute</a></li> -->
 
-                     <li><a href="#tab02" aria-controls="tab02" role="tab" data-toggle="tab">Search by Company</a></li>
+                    <li class="active"><a href="#tab01" aria-controls="tab01" role="tab" data-toggle="tab">Search</a></li>
 
-                     <li><a href="#tab03" aria-controls="tab03" role="tab" data-toggle="tab">anyth else?</a></li>
+
+                     <li><a href="#tab02" aria-controls="tab02" role="tab" data-toggle="tab">Visualizations</a></li>
                    </ul>
 
                    <div class="tab-content">
-                     <div class="tab-pane active" id="tab01" role="tabpanel">
+                    <!--  <div class="tab-pane active" id="tab01" role="tabpanel">
                       <div class="tab-pane-item">
                        <label class="container">One
                         <input type="checkbox" checked="checked">
@@ -134,128 +148,321 @@
                       </label>
                     </div>
                     <div class="tab-pane-item">
+                      <input type="checkbox" class="myCheckbox" value="thor"> test 1 (thor)
+                      <br>
+                      <input type="checkbox" class="myCheckbox" value="spiderman"> test 2 (spiderman)
+                      <br>
+                      <input type="checkbox" class="myCheckbox" value="superman"> test 3 (superman)
+                      <div id="content"></div>
+                      <script>
+                        data = ["batman","thor","superman","spiderman","ironman"];
+                        table = d3.select("#content")
+                        .append("table")
+                        .property("border","1px");
+                        d3.selectAll(".myCheckbox").on("change",update);
+                        update();
+
+
+                        function update(){
+                          var choices = [];
+                          d3.selectAll(".myCheckbox").each(function(d){
+                            cb = d3.select(this);
+                            if(cb.property("checked")){
+                              choices.push(cb.property("value"));
+                            }
+                          });
+
+                          if(choices.length > 0){
+                            newData = data.filter(function(d,i){return choices.includes(d);});
+                          } else {
+                            newData = data;
+                          }
+
+                          newRows = table.selectAll("tr")
+                          .data(newData,function(d){return d;});
+                          newRows.enter()
+                          .append("tr")
+                          .append("td")
+                          .text(function(d){return d;});
+                          newRows.exit()
+                          .remove();
+                        }
+
+                      </script>
+                    </div>
+                    <div class="tab-pane-item">
                       <h2>Companies</h2>
                       <p>Aliquam massa massa, consectetur non mattis fringilla, sodales ac turpis. Morbi ac felis sagittis, faucibus mauris vitae, placerat mauris.</p>
                     </div>
                   </div>
-
-
-                  <div class="tab-pane" id="tab02" role="tabpanel">
+ -->
+                  <div class="tab-pane active" id="tab01" role="tabpanel">
                    <div class="tab-pane-item">
 
-                    <h2>Search for a company</h2>
+                    <h2>Search For a Company</h2>
+                    <p>Search for companies, keywords, or statistics. Top keywords are descriptive adjectives compiled from thousands of employee reviews. The Sentiment Score scores te overall tone of reviews for a given company.</p>
                     <br>
-                    <style>
-/* Style The Dropdown Button */
-.dropbtn {
-    background-color: #4CAF50;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-}
+                  <!-- <style>
+                  /* Style The Dropdown Button */
+                  .dropbtn {
+                    background-color: #4CAF50;
+                    color: white;
+                    padding: 16px;
+                    font-size: 16px;
+                    border: none;
+                    cursor: pointer;
+                  }
 
-/* The container <div> - needed to position the dropdown content */
-.dropdown {
-    position: relative;
-    display: inline-block;
-}
+                  /* The container <div> - needed to position the dropdown content */
+                  .dropdown {
+                    position: relative;
+                    display: inline-block;
+                  }
 
-/* Dropdown Content (Hidden by Default) */
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-}
+                  /* Dropdown Content (Hidden by Default) */
+                  .dropdown-content {
+                    display: none;
+                    position: absolute;
+                    background-color: #f9f9f9;
+                    min-width: 160px;
+                    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                    z-index: 1;
+                  }
 
-/* Links inside the dropdown */
-.dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
+                  /* Links inside the dropdown */
+                  .dropdown-content a {
+                    color: black;
+                    padding: 12px 16px;
+                    text-decoration: none;
+                    display: block;
+                  }
 
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #f1f1f1}
+                  /* Change color of dropdown links on hover */
+                  .dropdown-content a:hover {background-color: #f1f1f1}
 
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
-    display: block;
-}
+                  /* Show the dropdown menu on hover */
+                  .dropdown:hover .dropdown-content {
+                    display: block;
+                  }
 
-/* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {
-    background-color: #3e8e41;
-}
-</style>
+                  /* Change the background color of the dropdown button when the dropdown content is shown */
+                  .dropdown:hover .dropbtn {
+                    background-color: #3e8e41;
+                  }
+                </style> -->
 
-<div class="dropdown">
-  <button class="dropbtn">Select</button>
-  <div class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div>
-
-                  </div>
-                  <div class="tab-pane-item">
-                    <h3>Company Name</h3>
-                    <p>Info/attributes</p>
+                <!-- <div class="dropdown">
+                  <button class="dropbtn">Select</button>
+                  <div class="dropdown-content">
+                    <a href="#">Link 1</a>
+                    <a href="#">Link 2</a>
+                    <a href="#">Link 3</a>
                   </div>
                 </div>
+              -->
+            </div>
+            <div class="tab-pane-item">
+              <div class="container">
+                <p>Type something in the input field to search the table for attributes you value:</p>
+                <input class="form-control" id="myInput" type="text" placeholder="Search..">
+                <br>
+                <table class="table table-bordered table-striped">
+                  <thead>
+                    <tr>
+                      <th>Company Name</th>
+                      <th>Commonly Used Words</th>
+                      <th>Percent Female</th>
+                      <th>Sentiment Score</th>
+                    </tr>
+                  </thead>
+                  <tbody id="myTable">
+                    <tr>
+                      <td>Amazon</td>
+                      <td>friendly, able, hard</td>
+                      <td>39%</td>
+                      <td>195.9</td>
+                    </tr>
+                    <tr>
+                      <td>Apple</td>
+                      <td>best, amazing, retail</td>
+                      <td>32%</td>
+                      <td>612.6</td>
+                    </tr><tr>
+                      <td>Cisco</td>
+                      <td>new, best, first</td>
+                      <td>24%</td>
+                      <td>541.32</td>
+                    </tr><tr>
+                      <td>Dell</td>
+                      <td>different, best, new</td>
+                      <td>28%</td>
+                      <td>543</td>
+                    </tr><tr>
+                      <td>Ebay</td>
+                      <td>fun, new, competitive</td>
+                      <td>40%</td>
+                      <td>555</td>
+                    </tr><tr>
+                      <td>Facebook</td>
+                      <td>best, enjoyable, wonderful</td>
+                      <td>35%</td>
+                      <td>381.5</td>
+                    </tr><tr>
+                      <td>Flickr</td>
+                      <td>relaxed, amazing, condusive</td>
+                      <td>37%</td>
+                      <td>0.81</td>
+                    </tr>
+                    <tr>
+                      <td>Google</td>
+                      <td>new, free, best</td>
+                      <td>31%</td>
+                      <td>577.71</td>
+                    </tr>
+                    <tr>
+                      <td>Groupon</td>
+                      <td>fun, young, hard</td>
+                      <td>44%</td>
+                      <td>240.6</td>
+                    </tr>
+                    <tr>
+                      <td>HP</td>
+                      <td>upper, collaborative, different</td>
+                      <td>37%</td>
+                      <td>343.6</td>
+                    </tr>
+                    <tr>
+                      <td>Ingram Micro</td>
+                      <td>different, hardest, nice</td>
+                      <td>31%</td>
+                      <td>0</td>
+                    </tr>
+                    <tr>
+                      <td>Intel</td>
+                      <td>new, excellent, willing</td>
+                      <td>26.5%</td>
+                      <td>572.4</td>
+                    </tr>
+                    <tr>
+                      <td>LinkedIn</td>
+                      <td>free, awesome, hard</td>
+                      <td>42%</td>
+                      <td>159</td>
+                    </tr>
+                    <tr>
+                      <td>Microsoft</td>
+                      <td>new, different, more</td>
+                      <td>26%</td>
+                      <td>589.08</td>
+                    </tr>
+                    <tr>
+                      <td>Nvidia</td>
+                      <td>different, top, permanent</td>
+                      <td>17%</td>
+                      <td>63.4</td>
+                    </tr>
+                    <tr>
+                      <td>Pandora</td>
+                      <td>best, different, little</td>
+                      <td>49%</td>
+                      <td>46.2</td>
+                    </tr>
+                    <tr>
+                      <td>Salesforce</td>
+                      <td>best, meaningful, real</td>
+                      <td>30.9%</td>
+                      <td>451.15</td>
+                    </tr>
+                    <tr>
+                      <td>Tumblr</td>
+                      <td>high, social, bad</td>
+                      <td>37%</td>
+                      <td>10.10</td>
+                    </tr>
+<tr>
+                      <td>Twitter</td>
+                      <td>free, easy, supportive</td>
+                      <td>38.4%</td>
+                      <td>52.8</td>
+                    </tr>
+<tr>
+                      <td>Yahoo</td>
+                      <td>new, best, enjoyable</td>
+                      <td>37%</td>
+                      <td>447.5</td>
+                    </tr>
+<tr>
+                      <td>Youtube</td>
+                      <td>own, fun, best</td>
+                      <td>31%</td>
+                      <td>130.28</td>
+                    </tr>
 
-                <div class="tab-pane" id="tab03" role="tabpanel">
-                 <div class="tab-pane-item">
-                  <h2>Quick Support</h2>
-                  <p>Mauris rutrum est at fringilla pulvinar. Nam ligula urna, lobortis non scelerisque vel, molestie eu massa. Nullam mattis elit at tortor accumsan.</p>
-                </div>
-                <div class="tab-pane-item">
-                  <h2>Managed Stuffs</h2>
-                  <p>Quisque ullamcorper sem quis sapien cursus efficitur. Sed id sodales ipsum. Morbi eleifend tempus erat sit amet vehicula. Nulla at posuere tellus, non mattis erat. Nulla id massa gravida.</p>
-                </div>
+                  </tbody>
+                </table>
               </div>
+
+              <script>
+                $(document).ready(function(){
+                  $("#myInput").on("keyup", function() {
+                    var value = $(this).val().toLowerCase();
+                    $("#myTable tr").filter(function() {
+                      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+                    });
+                  });
+                });
+              </script>
             </div>
 
           </div>
 
-          <div class="col-md-6 col-sm-6">
-           <div class="findyourfit-image">
-            <img src="images/feature-mockup.png" class="img-responsive" alt="Thin Laptop">
+          <div class="tab-pane" id="tab02" role="tabpanel">
+           <div class="tab-pane-item">
+            <h2>Companies and Their Sentiment Values</h2>
+            <p>Sentiment values represent a product of Google NLP's calculated positivity score and magnitude.</p>
+            <img src="images/fig1.jpeg" alt="figure1">
+          </div>
+          <div class="tab-pane-item">
+            <h2>Tech Companies and their Female:Male Ratio</h2>
+            <img src="images/fig2.jpeg" alt="figure2">
           </div>
         </div>
-
       </div>
+
     </div>
-  </section>
 
-
-  <!-- ABOUT -->
-  <section id="about" data-stellar-background-ratio="0.5">
-   <div class="container">
-    <div class="row">
-
-     <div class="col-md-offset-3 col-md-6 col-sm-12">
-      <div class="section-title">
-       <h1>The ValU Team</h1>
-     </div>
-   </div>
-
-   <div class="col-md-4 col-sm-4">
-    <div class="team-thumb">
-     <img src="images/amrita.jpg" class="img-responsive" alt="Andrew Orange">
-     <div class="team-info team-thumb-up">
-      <h2>Amrita Suresh</h2>
-      <small>Developer</small>
-      <p>Amrita is a second-year Data Science major at Northeastern University. On this project, she collaborated on data scraping, shaping, and database design using R and SQL. She is interested in data analysis, visualization, and using tech for social good.
-      </p>
+    <div class="col-md-6 col-sm-6">
+     <div class="findyourfit-image">
+      <img src="images/feature-mockup.png" class="img-responsive" alt="Thin Laptop">
     </div>
   </div>
+
+</div>
+</div>
+</section>
+
+
+<!-- ABOUT -->
+<section id="about" data-stellar-background-ratio="0.5">
+ <div class="container">
+  <div class="row">
+
+   <div class="col-md-12 col-sm-12">
+    <div class="section-title">
+     <h1>The Team</h1>
+   </div>
+ </div>
+
+ <div class="col-md-4 col-sm-4">
+  <div class="team-thumb">
+   <img src="images/amrita.jpg" class="img-responsive" alt="Andrew Orange">
+   <div class="team-info team-thumb-up">
+    <h2>Amrita Suresh</h2>
+    <small>Developer</small>
+    <p>Amrita is a second-year Data Science major at Northeastern University. On this project, she collaborated on data scraping, shaping, and database design using R and SQL. She is interested in data analysis, visualization, and using tech for social good.
+    </p>
+  </div>
+</div>
 </div>
 
 <div class="col-md-4 col-sm-4">
@@ -276,7 +483,7 @@
    <div class="team-info team-thumb-up">
     <h2>Sneha Shivakumar</h2>
     <small>Developer</small>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing eiusmod tempor incididunt ut labore et dolore magna.</p>
+    <p>Sneha is a second-year cybersecurity major at Northeastern University. She helped design the lexical frequency analysis java program that was used with the results of Google’s Natural Language Processing API, and she also worked with integrating the API into this project. She enjoys approaching cybersecurity and CS from an interdisciplinary lense, and hopes to one day work with cyber policy and innovation, too.</p>
   </div>
 </div>
 </div>
@@ -307,11 +514,11 @@
 
 <div class="col-md-4 col-sm-4">
   <div class="team-thumb">
-   <img src="images/madiha.jpg" class="img-responsive" alt="Jack Wilson">
+   <img src="images/madiha.JPG" class="img-responsive" alt="Jack Wilson">
    <div class="team-info team-thumb-up">
     <h2>Madiha Alam</h2>
     <small>Developer</small>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing eiusmod tempor incididunt ut labore et dolore magna.</p>
+    <p>Madiha is a second year Computer Science and Design major at Northeastern University. She developed the front-end of this application in HTML, CSS, and JavaScript. She is interested in UI/UX and Web Development.</p>
   </div>
 </div>
 </div>
@@ -451,23 +658,25 @@
 
    <div class="col-md-offset-1 col-md-10 col-sm-12">
     <form id="contact-form" role="form" action="" method="post">
-     <div class="section-title">
-      <h1>Say hello to us</h1>
-    </div>
+     <div class="col-md-12 col-sm-12">
+      <div class="section-title">
+       <h1>Say Hello to Us</h1>
+     </div>
+   </div>
 
-    <div class="col-md-4 col-sm-4">
-      <input type="text" class="form-control" placeholder="Full name" name="name" required="">
-    </div>
-    <div class="col-md-4 col-sm-4">
-      <input type="email" class="form-control" placeholder="Email address" name="email" required="">
-    </div>
-    <div class="col-md-4 col-sm-4">
-      <input type="submit" class="form-control" name="send message" value="Send Message">
-    </div>
-    <div class="col-md-12 col-sm-12">
-      <textarea class="form-control" rows="8" placeholder="Your message" name="message" required=""></textarea>
-    </div>
-  </form>
+   <div class="col-md-4 col-sm-4">
+    <input type="text" class="form-control" placeholder="Full name" name="name" required="">
+  </div>
+  <div class="col-md-4 col-sm-4">
+    <input type="email" class="form-control" placeholder="Email address" name="email" required="">
+  </div>
+  <div class="col-md-4 col-sm-4">
+    <input type="submit" class="form-control" name="send message" value="Send Message">
+  </div>
+  <div class="col-md-12 col-sm-12">
+    <textarea class="form-control" rows="8" placeholder="Your message" name="message" required=""></textarea>
+  </div>
+</form>
 </div>
 
 </div>
@@ -482,31 +691,35 @@
 
    <div class="copyright-text col-md-12 col-sm-12">
     <div class="col-md-6 col-sm-6">
-     <p>Copyright &copy; 2018 Company Name - Design:
+     <p>Copyright &copy; 2018 valU - Design:
       <a rel="nofollow" href="http://tooplate.com">Tooplate</a></p>
-    </div>
+      <br>
+      <p>You can view the code for this project
+        <a rel="nofollow" href="https://github.com/Snehaskr/valU">here.</a></p>
+      </div>
 
-    <div class="col-md-6 col-sm-6">
-      <ul class="social-icon">
-       <li><a href="#" class="fa fa-facebook-square" attr="facebook icon"></a></li>
-       <li><a href="#" class="fa fa-twitter"></a></li>
-       <li><a href="#" class="fa fa-instagram"></a></li>
-     </ul>
+      <div class="col-md-6 col-sm-6">
+        <ul class="social-icon">
+         <li><a href="#" class="fa fa-facebook-square" attr="facebook icon"></a></li>
+         <li><a href="#" class="fa fa-twitter"></a></li>
+         <li><a href="#" class="fa fa-instagram"></a></li>
+       </ul>
+     </div>
    </div>
- </div>
 
-</div>
+ </div>
 </div>
 </footer>
 
 
 <!-- SCRIPTS -->
+<!-- <script src="https://d3js.org/d3.v4.0.0-alpha.40.min.js"></script>
 <script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.stellar.min.js"></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/smoothscroll.js"></script>
-<script src="js/custom.js"></script>
+<script src="js/custom.js"></script> -->
 
 </body>
 </html>
