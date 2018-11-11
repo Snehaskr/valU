@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <script src='js/sql.js'></script>
+    <script>
+function queryAttribute(att) {
+  var sql = "SELECT * FROM keywords";
+  var db = new SQL.Database("companiesDB");
+  document.write("<table><tr><th>Company</th><th>Keyword</th></tr>");
+  var stmt = db.prepare(sql)
+  while(stmt.step()) {
+        var row = stmt.getAsObject();
+        document.write("<tr><td>" + row.name + " </td><td>" + row.name + " </td></tr></table>");
+  }
+document.write("</table>")
+// close the database connection
+//db.close();
+  
+  
+}
+
+queryAttribute("aaaaaaaa")
+</script>
+  </head>
+  <body>
+</body>
+</html>
